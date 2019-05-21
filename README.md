@@ -5,7 +5,7 @@
 <h4 align="center">记录精彩的坎坷人生，经营属于自己的世界！</h4>
 <p align="center"><a title="邯城往事" target="_blank" href="https://github.com/cuijianzhe/solo-blog"><img src="https://img.shields.io/github/last-commit/cuijianzhe/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/cuijianzhe/solo-blog"><img src="https://img.shields.io/github/repo-size/cuijianzhe/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.0-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.1-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/cuijianzhe/solo-blog.svg"></a></p>
 
 ### 最新
