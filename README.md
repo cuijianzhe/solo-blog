@@ -49,10 +49,8 @@
 * [网络设备配置输出一口气](https://www.cjzshilong.cn/articles/2019/03/20/1553084486763.html)
 * [solo博客V3.2在Tomcat部署+更改H2数据库为MariaDB](https://www.cjzshilong.cn/articles/2019/03/05/1551783677422.html)
 * [解决centos7系统搭建wordpress出现403问题](https://www.cjzshilong.cn/articles/2019/03/15/1552647096813.html)
-* [沃尔沃汽车广告-高逼格高晓松](https://www.cjzshilong.cn/articles/2019/03/17/1552832697469.html)
 * [nginx反向代理tomcat项目之solo](https://www.cjzshilong.cn/articles/2019/03/15/1552648638089.html)
 * [基于centos7搭建wordpress博客系统](https://www.cjzshilong.cn/articles/2019/03/05/1551795070444.html)
-* [雷克萨斯小广告](https://www.cjzshilong.cn/articles/2019/03/05/1551797926734.html)
 
 ### 热议
 
@@ -60,11 +58,6 @@
 * [今天展示一个实用小脚本代码](https://www.cjzshilong.cn/articles/2019/03/08/1552010192689.html)
 * [阿里P8架构师讲述：3—5年程序员的发展和出路在哪里？](https://www.cjzshilong.cn/articles/2019/03/15/1552646700449.html)
 * [使用python发送邮件](https://www.cjzshilong.cn/articles/2019/03/16/1552707556605.html)
-* [本田飞度小广告](https://www.cjzshilong.cn/articles/2019/03/16/1552740246553.html)
-* [领克03小广告](https://www.cjzshilong.cn/articles/2019/03/16/1552741688063.html)
-* [特斯拉汽车小广告](https://www.cjzshilong.cn/articles/2019/03/16/1552743685432.html)
-* [轿车销量冠军之大众朗逸](https://www.cjzshilong.cn/articles/2019/03/17/1552830056319.html)
-* [马自达广告-高逼格](https://www.cjzshilong.cn/articles/2019/03/17/1552831486197.html)
 * [IDEA2018.3.3集成tomcat9](https://www.cjzshilong.cn/articles/2019/03/23/1553276263160.html)
 * [全面理解Java内存模型(偷转)](https://www.cjzshilong.cn/articles/2019/03/23/1553319340134.html)
 * [docker容器命名和资源配额控制(2)](https://www.cjzshilong.cn/articles/2019/03/27/1553650586883.html)
