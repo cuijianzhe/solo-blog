@@ -52,7 +52,6 @@
 * [沃尔沃汽车广告-高逼格高晓松](https://www.cjzshilong.cn/articles/2019/03/17/1552832697469.html)
 * [nginx反向代理tomcat项目之solo](https://www.cjzshilong.cn/articles/2019/03/15/1552648638089.html)
 * [基于centos7搭建wordpress博客系统](https://www.cjzshilong.cn/articles/2019/03/05/1551795070444.html)
-* [雷克萨斯小广告](https://www.cjzshilong.cn/articles/2019/03/05/1551797926734.html)
 
 ### 热议
 
