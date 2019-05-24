@@ -52,14 +52,13 @@
 * [沃尔沃汽车广告-高逼格高晓松](https://www.cjzshilong.cn/articles/2019/03/17/1552832697469.html)
 * [nginx反向代理tomcat项目之solo](https://www.cjzshilong.cn/articles/2019/03/15/1552648638089.html)
 * [基于centos7搭建wordpress博客系统](https://www.cjzshilong.cn/articles/2019/03/05/1551795070444.html)
-* [雷克萨斯小广告](https://www.cjzshilong.cn/articles/2019/03/05/1551797926734.html)
+* [使用python发送邮件告知SSL证书到期时间](https://www.cjzshilong.cn/articles/2019/03/16/1552707556605.html)
 
 ### 热议
 
 * [谁希望宅呢，不过是同龄人都比自己优秀罢了。](https://www.cjzshilong.cn/articles/2019/03/09/1552066775891.html)
 * [今天展示一个实用小脚本代码](https://www.cjzshilong.cn/articles/2019/03/08/1552010192689.html)
 * [阿里P8架构师讲述：3—5年程序员的发展和出路在哪里？](https://www.cjzshilong.cn/articles/2019/03/15/1552646700449.html)
-* [使用python发送邮件告知SSL证书到期时间](https://www.cjzshilong.cn/articles/2019/03/16/1552707556605.html)
 * [领克03小广告](https://www.cjzshilong.cn/articles/2019/03/16/1552741688063.html)
 * [特斯拉汽车小广告](https://www.cjzshilong.cn/articles/2019/03/16/1552743685432.html)
 * [轿车销量冠军之大众朗逸](https://www.cjzshilong.cn/articles/2019/03/17/1552830056319.html)
