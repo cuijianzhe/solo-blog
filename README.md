@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [学车之路](https://www.cjzshilong.cn/articles/2019/05/25/1558767210633.html)
 * [治疗snow的猫瘟之路](https://www.cjzshilong.cn/articles/2019/05/16/1557975252062.html)
 * [windows系统ping加上时间戳并且cmd隐藏运行实现方法](https://www.cjzshilong.cn/articles/2019/05/15/1557907158513.html)
 * [我的主机./bashrc定制自己环境，and推荐zsh美化linux界面](https://www.cjzshilong.cn/articles/2019/05/08/1557298336838.html)
@@ -29,7 +30,6 @@
 * [设置APN让个人热点网速更快更稳定](https://www.cjzshilong.cn/articles/2019/04/10/1554867918639.html)
 * [编写一个自动安装zabbix-agentd客户端的脚本](https://www.cjzshilong.cn/articles/2019/04/07/1554637687016.html)
 * [查看linux配置文件中被注释以外的配置](https://www.cjzshilong.cn/articles/2019/04/06/1554546633835.html)
-* [压力之大令人唏嘘](https://www.cjzshilong.cn/articles/2019/04/01/1554111088841.html)
 
 ### 热门
 
@@ -59,14 +59,13 @@
 * [谁希望宅呢，不过是同龄人都比自己优秀罢了。](https://www.cjzshilong.cn/articles/2019/03/09/1552066775891.html)
 * [今天展示一个实用小脚本代码](https://www.cjzshilong.cn/articles/2019/03/08/1552010192689.html)
 * [阿里P8架构师讲述：3—5年程序员的发展和出路在哪里？](https://www.cjzshilong.cn/articles/2019/03/15/1552646700449.html)
-* [领克03小广告](https://www.cjzshilong.cn/articles/2019/03/16/1552741688063.html)
-* [特斯拉汽车小广告](https://www.cjzshilong.cn/articles/2019/03/16/1552743685432.html)
 * [轿车销量冠军之大众朗逸](https://www.cjzshilong.cn/articles/2019/03/17/1552830056319.html)
 * [马自达广告-高逼格](https://www.cjzshilong.cn/articles/2019/03/17/1552831486197.html)
 * [IDEA2018.3.3集成tomcat9](https://www.cjzshilong.cn/articles/2019/03/23/1553276263160.html)
 * [全面理解Java内存模型(偷转)](https://www.cjzshilong.cn/articles/2019/03/23/1553319340134.html)
 * [docker容器命名和资源配额控制(2)](https://www.cjzshilong.cn/articles/2019/03/27/1553650586883.html)
 * [docker安装nginx](https://www.cjzshilong.cn/articles/2019/03/28/1553760603642.html)
+* [压力之大令人唏嘘](https://www.cjzshilong.cn/articles/2019/04/01/1554111088841.html)
 
 ---
 
