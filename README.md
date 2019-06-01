@@ -50,9 +50,9 @@
 * [solo博客V3.2在Tomcat部署+更改H2数据库为MariaDB](https://www.cjzshilong.cn/articles/2019/03/05/1551783677422.html)
 * [解决centos7系统搭建wordpress出现403问题](https://www.cjzshilong.cn/articles/2019/03/15/1552647096813.html)
 * [沃尔沃汽车广告-高逼格高晓松](https://www.cjzshilong.cn/articles/2019/03/17/1552832697469.html)
+* [使用python发送邮件告知SSL证书到期时间](https://www.cjzshilong.cn/articles/2019/03/16/1552707556605.html)
 * [nginx反向代理tomcat项目之solo](https://www.cjzshilong.cn/articles/2019/03/15/1552648638089.html)
 * [基于centos7搭建wordpress博客系统](https://www.cjzshilong.cn/articles/2019/03/05/1551795070444.html)
-* [使用python发送邮件告知SSL证书到期时间](https://www.cjzshilong.cn/articles/2019/03/16/1552707556605.html)
 
 ### 热议
 
