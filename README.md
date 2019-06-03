@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [24岁这一年的前半年](https://www.cjzshilong.cn/articles/2019/06/03/1559529646622.html)
 * [心中有大船](https://www.cjzshilong.cn/articles/2019/06/02/1559424549464.html)
 * [中彩网](https://www.cjzshilong.cn/articles/2019/05/29/1559117935660.html)
 * [学车之路](https://www.cjzshilong.cn/articles/2019/05/25/1558767210633.html)
@@ -29,7 +30,6 @@
 * [java数值类型的拆装箱与升降级之间的关系](https://www.cjzshilong.cn/articles/2019/04/11/1554987815685.html)
 * [部署solo博客自动升级](https://www.cjzshilong.cn/articles/2019/04/10/1554909820806.html)
 * [多线程之同步屏障CyclicBarrier的使用](https://www.cjzshilong.cn/articles/2019/04/10/1554887221480.html)
-* [设置APN让个人热点网速更快更稳定](https://www.cjzshilong.cn/articles/2019/04/10/1554867918639.html)
 
 ### 热门
 
@@ -68,6 +68,7 @@
 * [docker安装nginx](https://www.cjzshilong.cn/articles/2019/03/28/1553760603642.html)
 * [压力之大令人唏嘘](https://www.cjzshilong.cn/articles/2019/04/01/1554111088841.html)
 * [查看linux配置文件中被注释以外的配置](https://www.cjzshilong.cn/articles/2019/04/06/1554546633835.html)
+* [设置APN让个人热点网速更快更稳定](https://www.cjzshilong.cn/articles/2019/04/10/1554867918639.html)
 
 ---
 
