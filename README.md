@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [python练习作业](https://www.cjzshilong.cn/articles/2019/06/05/1559716535382.html)
 * [24岁这一年的前半年](https://www.cjzshilong.cn/articles/2019/06/03/1559529646622.html)
 * [心中有大船](https://www.cjzshilong.cn/articles/2019/06/02/1559424549464.html)
 * [中彩网](https://www.cjzshilong.cn/articles/2019/05/29/1559117935660.html)
@@ -29,13 +30,13 @@
 * [多线程之倒计时计数器 CountDownLatch](https://www.cjzshilong.cn/articles/2019/04/15/1555309259187.html)
 * [java数值类型的拆装箱与升降级之间的关系](https://www.cjzshilong.cn/articles/2019/04/11/1554987815685.html)
 * [部署solo博客自动升级](https://www.cjzshilong.cn/articles/2019/04/10/1554909820806.html)
-* [多线程之同步屏障CyclicBarrier的使用](https://www.cjzshilong.cn/articles/2019/04/10/1554887221480.html)
 
 ### 热门
 
 * [LINUX脚本使用实战，持续更新](https://www.cjzshilong.cn/articles/2019/03/16/1552705047941.html)
 * [编写一个自动安装zabbix-agentd客户端的脚本](https://www.cjzshilong.cn/articles/2019/04/07/1554637687016.html)
 * [linux使用sendEmail发送邮件](https://www.cjzshilong.cn/articles/2019/03/16/1552701584725.html)
+* [多线程之同步屏障CyclicBarrier的使用](https://www.cjzshilong.cn/articles/2019/04/10/1554887221480.html)
 * [调取高德api获取ip定位信息](https://www.cjzshilong.cn/articles/2019/03/08/1552013816021.html)
 * [通过查看nginx 日志进行分析](https://www.cjzshilong.cn/articles/2019/03/19/1552967425056.html)
 * [搭建docker之路-初识（1）](https://www.cjzshilong.cn/articles/2019/03/26/1553571577540.html)
@@ -51,7 +52,6 @@
 * [solo博客V3.2在Tomcat部署+更改H2数据库为MariaDB](https://www.cjzshilong.cn/articles/2019/03/05/1551783677422.html)
 * [使用python发送邮件告知SSL证书到期时间](https://www.cjzshilong.cn/articles/2019/03/16/1552707556605.html)
 * [解决centos7系统搭建wordpress出现403问题](https://www.cjzshilong.cn/articles/2019/03/15/1552647096813.html)
-* [沃尔沃汽车广告-高逼格高晓松](https://www.cjzshilong.cn/articles/2019/03/17/1552832697469.html)
 * [基于centos7搭建wordpress博客系统](https://www.cjzshilong.cn/articles/2019/03/05/1551795070444.html)
 
 ### 热议
@@ -60,8 +60,6 @@
 * [今天展示一个实用小脚本代码](https://www.cjzshilong.cn/articles/2019/03/08/1552010192689.html)
 * [阿里P8架构师讲述：3—5年程序员的发展和出路在哪里？](https://www.cjzshilong.cn/articles/2019/03/15/1552646700449.html)
 * [nginx反向代理tomcat项目之solo](https://www.cjzshilong.cn/articles/2019/03/15/1552648638089.html)
-* [轿车销量冠军之大众朗逸](https://www.cjzshilong.cn/articles/2019/03/17/1552830056319.html)
-* [马自达广告-高逼格](https://www.cjzshilong.cn/articles/2019/03/17/1552831486197.html)
 * [IDEA2018.3.3集成tomcat9](https://www.cjzshilong.cn/articles/2019/03/23/1553276263160.html)
 * [全面理解Java内存模型(偷转)](https://www.cjzshilong.cn/articles/2019/03/23/1553319340134.html)
 * [docker容器命名和资源配额控制(2)](https://www.cjzshilong.cn/articles/2019/03/27/1553650586883.html)
