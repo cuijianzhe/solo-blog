@@ -10,7 +10,7 @@
 
 ### 最新
 
-* [python练习作业](https://www.cjzshilong.cn/articles/2019/06/05/1559716535382.html)
+* [python练习题](https://www.cjzshilong.cn/articles/2019/06/05/1559716535382.html)
 * [24岁这一年的前半年](https://www.cjzshilong.cn/articles/2019/06/03/1559529646622.html)
 * [心中有大船](https://www.cjzshilong.cn/articles/2019/06/02/1559424549464.html)
 * [中彩网](https://www.cjzshilong.cn/articles/2019/05/29/1559117935660.html)
