@@ -5,7 +5,7 @@
 <h4 align="center">记录精彩的坎坷人生，经营属于自己的世界！</h4>
 <p align="center"><a title="邯城往事" target="_blank" href="https://github.com/cuijianzhe/solo-blog"><img src="https://img.shields.io/github/last-commit/cuijianzhe/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/cuijianzhe/solo-blog"><img src="https://img.shields.io/github/repo-size/cuijianzhe/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.1-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.2-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/cuijianzhe/solo-blog.svg"></a></p>
 
 ### 最新
@@ -38,8 +38,8 @@
 * [linux使用sendEmail发送邮件](https://www.cjzshilong.cn/articles/2019/03/16/1552701584725.html)
 * [多线程之同步屏障CyclicBarrier的使用](https://www.cjzshilong.cn/articles/2019/04/10/1554887221480.html)
 * [调取高德api获取ip定位信息](https://www.cjzshilong.cn/articles/2019/03/08/1552013816021.html)
-* [通过查看nginx 日志进行分析](https://www.cjzshilong.cn/articles/2019/03/19/1552967425056.html)
 * [阿里云机器和本地IDC建立ipsec VPN](https://www.cjzshilong.cn/articles/2019/03/16/1552720730829.html)
+* [通过查看nginx 日志进行分析](https://www.cjzshilong.cn/articles/2019/03/19/1552967425056.html)
 * [搭建docker之路-初识（1）](https://www.cjzshilong.cn/articles/2019/03/26/1553571577540.html)
 * [PGone、孙八一、小青龙剪辑作品展](https://www.cjzshilong.cn/articles/2019/03/05/1551798496474.html)
 * [uniq、sort命令理解](https://www.cjzshilong.cn/articles/2019/03/23/1553311254119.html)
