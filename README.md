@@ -14,7 +14,6 @@
 * [我在 GitHub 上的开源项目](https://www.cjzshilong.cn/my-github-repos)
 * [py项目中学到的知识梳理](https://www.cjzshilong.cn/articles/2019/06/14/1560505233857.html)
 * [python练习题](https://www.cjzshilong.cn/articles/2019/06/05/1559716535382.html)
-* [24岁这一年的前半年](https://www.cjzshilong.cn/articles/2019/06/03/1559529646622.html)
 * [心中有大船](https://www.cjzshilong.cn/articles/2019/06/02/1559424549464.html)
 * [中彩网](https://www.cjzshilong.cn/articles/2019/05/29/1559117935660.html)
 * [学车之路](https://www.cjzshilong.cn/articles/2019/05/25/1558767210633.html)
@@ -30,6 +29,7 @@
 * [centos7 安装NVIDIA P4000](https://www.cjzshilong.cn/articles/2019/04/18/1555574565055.html)
 * [记一次grafana变量取值的过程](https://www.cjzshilong.cn/articles/2019/04/16/1555410740995.html)
 * [并发工具类 ---Semaphore](https://www.cjzshilong.cn/articles/2019/04/15/1555318114318.html)
+* [多线程之倒计时计数器 CountDownLatch](https://www.cjzshilong.cn/articles/2019/04/15/1555309259187.html)
 
 ### 热门
 
@@ -52,14 +52,14 @@
 * [JDK11-juc包系列之atomic的AtomicBoolean类(一)](https://www.cjzshilong.cn/articles/2019/03/23/1553320766611.html)
 * [网络设备配置输出一口气](https://www.cjzshilong.cn/articles/2019/03/20/1553084486763.html)
 * [solo博客V3.2在Tomcat部署+更改H2数据库为MariaDB](https://www.cjzshilong.cn/articles/2019/03/05/1551783677422.html)
-* [解决centos7系统搭建wordpress出现403问题](https://www.cjzshilong.cn/articles/2019/03/15/1552647096813.html)
+* [基于centos7搭建wordpress博客系统](https://www.cjzshilong.cn/articles/2019/03/05/1551795070444.html)
 
 ### 热议
 
 * [谁希望宅呢，不过是同龄人都比自己优秀罢了。](https://www.cjzshilong.cn/articles/2019/03/09/1552066775891.html)
-* [基于centos7搭建wordpress博客系统](https://www.cjzshilong.cn/articles/2019/03/05/1551795070444.html)
 * [今天展示一个实用小脚本代码](https://www.cjzshilong.cn/articles/2019/03/08/1552010192689.html)
 * [阿里P8架构师讲述：3—5年程序员的发展和出路在哪里？](https://www.cjzshilong.cn/articles/2019/03/15/1552646700449.html)
+* [解决centos7系统搭建wordpress出现403问题](https://www.cjzshilong.cn/articles/2019/03/15/1552647096813.html)
 * [nginx反向代理tomcat项目之solo](https://www.cjzshilong.cn/articles/2019/03/15/1552648638089.html)
 * [IDEA2018.3.3集成tomcat9](https://www.cjzshilong.cn/articles/2019/03/23/1553276263160.html)
 * [全面理解Java内存模型(偷转)](https://www.cjzshilong.cn/articles/2019/03/23/1553319340134.html)
@@ -69,7 +69,6 @@
 * [查看linux配置文件中被注释以外的配置](https://www.cjzshilong.cn/articles/2019/04/06/1554546633835.html)
 * [设置APN让个人热点网速更快更稳定](https://www.cjzshilong.cn/articles/2019/04/10/1554867918639.html)
 * [java数值类型的拆装箱与升降级之间的关系](https://www.cjzshilong.cn/articles/2019/04/11/1554987815685.html)
-* [多线程之倒计时计数器 CountDownLatch](https://www.cjzshilong.cn/articles/2019/04/15/1555309259187.html)
 
 ---
 
