@@ -5,7 +5,7 @@
 <h4 align="center">记录精彩的坎坷人生，经营属于自己的世界！</h4>
 <p align="center"><a title="邯城往事" target="_blank" href="https://github.com/cuijianzhe/solo-blog"><img src="https://img.shields.io/github/last-commit/cuijianzhe/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/cuijianzhe/solo-blog"><img src="https://img.shields.io/github/repo-size/cuijianzhe/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.2-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.3-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/cuijianzhe/solo-blog.svg"></a></p>
 
 ### 最新
@@ -46,8 +46,8 @@
 * [PGone、孙八一、小青龙剪辑作品展](https://www.cjzshilong.cn/articles/2019/03/05/1551798496474.html)
 * [uniq、sort命令理解](https://www.cjzshilong.cn/articles/2019/03/23/1553311254119.html)
 * [你好](https://www.cjzshilong.cn/articles/2019/03/05/1551764136796.html)
-* [配置docker静态ip地址](https://www.cjzshilong.cn/articles/2019/03/27/1553657246955.html)
 * [纸牌屋之下木小朋友](https://www.cjzshilong.cn/articles/2019/03/06/1551875166137.html)
+* [配置docker静态ip地址](https://www.cjzshilong.cn/articles/2019/03/27/1553657246955.html)
 * [docker安装mysql](https://www.cjzshilong.cn/articles/2019/03/27/1553678573009.html)
 * [网络设备配置输出一口气](https://www.cjzshilong.cn/articles/2019/03/20/1553084486763.html)
 * [JDK11-juc包系列之atomic的AtomicBoolean类(一)](https://www.cjzshilong.cn/articles/2019/03/23/1553320766611.html)
