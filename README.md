@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [windows下实现黑客派自动签到](https://www.cjzshilong.cn/articles/2019/07/19/1563527162900.html)
 * [python拉取黑客派排行榜](https://www.cjzshilong.cn/articles/2019/07/18/1563449508471.html)
 * [思考如何才能创业成功](https://www.cjzshilong.cn/articles/2019/06/21/1561087069892.html)
 * [我在 GitHub 上的开源项目](https://www.cjzshilong.cn/my-github-repos)
@@ -29,7 +30,6 @@
 * [centos7 安装NVIDIA P4000](https://www.cjzshilong.cn/articles/2019/04/18/1555574565055.html)
 * [记一次grafana变量取值的过程](https://www.cjzshilong.cn/articles/2019/04/16/1555410740995.html)
 * [并发工具类 ---Semaphore](https://www.cjzshilong.cn/articles/2019/04/15/1555318114318.html)
-* [多线程之倒计时计数器 CountDownLatch](https://www.cjzshilong.cn/articles/2019/04/15/1555309259187.html)
 
 ### 热门
 
@@ -46,8 +46,8 @@
 * [PGone、孙八一、小青龙剪辑作品展](https://www.cjzshilong.cn/articles/2019/03/05/1551798496474.html)
 * [uniq、sort命令理解](https://www.cjzshilong.cn/articles/2019/03/23/1553311254119.html)
 * [你好](https://www.cjzshilong.cn/articles/2019/03/05/1551764136796.html)
-* [配置docker静态ip地址](https://www.cjzshilong.cn/articles/2019/03/27/1553657246955.html)
 * [纸牌屋之下木小朋友](https://www.cjzshilong.cn/articles/2019/03/06/1551875166137.html)
+* [配置docker静态ip地址](https://www.cjzshilong.cn/articles/2019/03/27/1553657246955.html)
 * [网络设备配置输出一口气](https://www.cjzshilong.cn/articles/2019/03/20/1553084486763.html)
 * [docker安装mysql](https://www.cjzshilong.cn/articles/2019/03/27/1553678573009.html)
 * [JDK11-juc包系列之atomic的AtomicBoolean类(一)](https://www.cjzshilong.cn/articles/2019/03/23/1553320766611.html)
@@ -69,6 +69,7 @@
 * [查看linux配置文件中被注释以外的配置](https://www.cjzshilong.cn/articles/2019/04/06/1554546633835.html)
 * [设置APN让个人热点网速更快更稳定](https://www.cjzshilong.cn/articles/2019/04/10/1554867918639.html)
 * [java数值类型的拆装箱与升降级之间的关系](https://www.cjzshilong.cn/articles/2019/04/11/1554987815685.html)
+* [多线程之倒计时计数器 CountDownLatch](https://www.cjzshilong.cn/articles/2019/04/15/1555309259187.html)
 
 ---
 
