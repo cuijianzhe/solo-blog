@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [语录](https://www.cjzshilong.cn/articles/2019/07/23/1563852507972.html)
 * [windows下实现黑客派自动签到](https://www.cjzshilong.cn/articles/2019/07/19/1563527162900.html)
 * [python爬取登录网站](https://www.cjzshilong.cn/articles/2019/07/18/1563449508471.html)
 * [思考如何才能创业成功](https://www.cjzshilong.cn/articles/2019/06/21/1561087069892.html)
@@ -29,7 +30,6 @@
 * [通过命令查看服务器硬件信息](https://www.cjzshilong.cn/articles/2019/04/23/1556013126298.html)
 * [centos7 安装NVIDIA P4000](https://www.cjzshilong.cn/articles/2019/04/18/1555574565055.html)
 * [记一次grafana变量取值的过程](https://www.cjzshilong.cn/articles/2019/04/16/1555410740995.html)
-* [并发工具类 ---Semaphore](https://www.cjzshilong.cn/articles/2019/04/15/1555318114318.html)
 
 ### 热门
 
@@ -38,6 +38,7 @@
 * [编写一个自动安装zabbix-agentd客户端的脚本](https://www.cjzshilong.cn/articles/2019/04/07/1554637687016.html)
 * [多线程之同步屏障CyclicBarrier的使用](https://www.cjzshilong.cn/articles/2019/04/10/1554887221480.html)
 * [linux使用sendEmail发送邮件](https://www.cjzshilong.cn/articles/2019/03/16/1552701584725.html)
+* [并发工具类 ---Semaphore](https://www.cjzshilong.cn/articles/2019/04/15/1555318114318.html)
 * [调取高德api获取ip定位信息](https://www.cjzshilong.cn/articles/2019/03/08/1552013816021.html)
 * [阿里云机器和本地IDC建立ipsec VPN](https://www.cjzshilong.cn/articles/2019/03/16/1552720730829.html)
 * [使用python发送邮件告知SSL证书到期时间](https://www.cjzshilong.cn/articles/2019/03/16/1552707556605.html)
@@ -52,11 +53,11 @@
 * [docker安装mysql](https://www.cjzshilong.cn/articles/2019/03/27/1553678573009.html)
 * [JDK11-juc包系列之atomic的AtomicBoolean类(一)](https://www.cjzshilong.cn/articles/2019/03/23/1553320766611.html)
 * [solo博客V3.2在Tomcat部署+更改H2数据库为MariaDB](https://www.cjzshilong.cn/articles/2019/03/05/1551783677422.html)
-* [基于centos7搭建wordpress博客系统](https://www.cjzshilong.cn/articles/2019/03/05/1551795070444.html)
 
 ### 热议
 
 * [谁希望宅呢，不过是同龄人都比自己优秀罢了。](https://www.cjzshilong.cn/articles/2019/03/09/1552066775891.html)
+* [基于centos7搭建wordpress博客系统](https://www.cjzshilong.cn/articles/2019/03/05/1551795070444.html)
 * [今天展示一个实用小脚本代码](https://www.cjzshilong.cn/articles/2019/03/08/1552010192689.html)
 * [阿里P8架构师讲述：3—5年程序员的发展和出路在哪里？](https://www.cjzshilong.cn/articles/2019/03/15/1552646700449.html)
 * [解决centos7系统搭建wordpress出现403问题](https://www.cjzshilong.cn/articles/2019/03/15/1552647096813.html)
