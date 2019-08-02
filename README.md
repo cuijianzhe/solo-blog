@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [学生管理系统](https://www.cjzshilong.cn/articles/2019/08/02/1564728341878.html)
 * [java.lang.IllegalArgumentException: Argument for @NotNull parameter 'file' of com/intellij/openapi/module/ModuleUtilCore.findModuleForFile must not be null](https://www.cjzshilong.cn/articles/2019/07/26/1564126881261.html)
 * [python脚本操作数据库](https://www.cjzshilong.cn/articles/2019/07/26/1564125997971.html)
 * [语录](https://www.cjzshilong.cn/articles/2019/07/23/1563852507972.html)
@@ -29,7 +30,6 @@
 * [2019年3月份述职报告](https://www.cjzshilong.cn/articles/2019/04/29/1556553586779.html)
 * [Mysql临时表示例](https://www.cjzshilong.cn/articles/2019/04/27/1556346607629.html)
 * [zabbix监控端口自动发现功能](https://www.cjzshilong.cn/articles/2019/04/25/1556156913542.html)
-* [通过命令查看服务器硬件信息](https://www.cjzshilong.cn/articles/2019/04/23/1556013126298.html)
 
 ### 热门
 
@@ -38,6 +38,7 @@
 * [编写一个自动安装zabbix-agentd客户端的脚本](https://www.cjzshilong.cn/articles/2019/04/07/1554637687016.html)
 * [centos7 安装NVIDIA P4000](https://www.cjzshilong.cn/articles/2019/04/18/1555574565055.html)
 * [记一次grafana变量取值的过程](https://www.cjzshilong.cn/articles/2019/04/16/1555410740995.html)
+* [通过命令查看服务器硬件信息](https://www.cjzshilong.cn/articles/2019/04/23/1556013126298.html)
 * [多线程之同步屏障CyclicBarrier的使用](https://www.cjzshilong.cn/articles/2019/04/10/1554887221480.html)
 * [linux使用sendEmail发送邮件](https://www.cjzshilong.cn/articles/2019/03/16/1552701584725.html)
 * [阿里云机器和本地IDC建立ipsec VPN](https://www.cjzshilong.cn/articles/2019/03/16/1552720730829.html)
@@ -52,7 +53,6 @@
 * [配置docker静态ip地址](https://www.cjzshilong.cn/articles/2019/03/27/1553657246955.html)
 * [纸牌屋之下木小朋友](https://www.cjzshilong.cn/articles/2019/03/06/1551875166137.html)
 * [docker安装mysql](https://www.cjzshilong.cn/articles/2019/03/27/1553678573009.html)
-* [网络设备配置输出一口气](https://www.cjzshilong.cn/articles/2019/03/20/1553084486763.html)
 
 ### 热议
 
@@ -63,6 +63,7 @@
 * [阿里P8架构师讲述：3—5年程序员的发展和出路在哪里？](https://www.cjzshilong.cn/articles/2019/03/15/1552646700449.html)
 * [解决centos7系统搭建wordpress出现403问题](https://www.cjzshilong.cn/articles/2019/03/15/1552647096813.html)
 * [nginx反向代理tomcat项目之solo](https://www.cjzshilong.cn/articles/2019/03/15/1552648638089.html)
+* [网络设备配置输出一口气](https://www.cjzshilong.cn/articles/2019/03/20/1553084486763.html)
 * [IDEA2018.3.3集成tomcat9](https://www.cjzshilong.cn/articles/2019/03/23/1553276263160.html)
 * [全面理解Java内存模型(偷转)](https://www.cjzshilong.cn/articles/2019/03/23/1553319340134.html)
 * [JDK11-juc包系列之atomic的AtomicBoolean类(一)](https://www.cjzshilong.cn/articles/2019/03/23/1553320766611.html)
