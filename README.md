@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Request 方法](https://www.cjzshilong.cn/articles/2019/08/14/1565771931308.html)
 * [zabbix自动发现华为AC6605管理AP状态以及连接数](https://www.cjzshilong.cn/articles/2019/08/05/1564987766272.html)
 * [学生管理系统](https://www.cjzshilong.cn/articles/2019/08/02/1564728341878.html)
 * [java.lang.IllegalArgumentException: Argument for @NotNull parameter 'file' of com/intellij/openapi/module/ModuleUtilCore.findModuleForFile must not be null](https://www.cjzshilong.cn/articles/2019/07/26/1564126881261.html)
@@ -29,7 +30,6 @@
 * [vim常用快捷键以及方法](https://www.cjzshilong.cn/articles/2019/05/03/1556870431824.html)
 * [讲一个向外借钱的故事](https://www.cjzshilong.cn/articles/2019/04/30/1556596263829.html)
 * [2019年3月份述职报告](https://www.cjzshilong.cn/articles/2019/04/29/1556553586779.html)
-* [Mysql临时表示例](https://www.cjzshilong.cn/articles/2019/04/27/1556346607629.html)
 
 ### 热门
 
@@ -39,6 +39,7 @@
 * [编写一个自动安装zabbix-agentd客户端的脚本](https://www.cjzshilong.cn/articles/2019/04/07/1554637687016.html)
 * [centos7 安装NVIDIA P4000](https://www.cjzshilong.cn/articles/2019/04/18/1555574565055.html)
 * [记一次grafana变量取值的过程](https://www.cjzshilong.cn/articles/2019/04/16/1555410740995.html)
+* [Mysql临时表示例](https://www.cjzshilong.cn/articles/2019/04/27/1556346607629.html)
 * [通过命令查看服务器硬件信息](https://www.cjzshilong.cn/articles/2019/04/23/1556013126298.html)
 * [多线程之同步屏障CyclicBarrier的使用](https://www.cjzshilong.cn/articles/2019/04/10/1554887221480.html)
 * [linux使用sendEmail发送邮件](https://www.cjzshilong.cn/articles/2019/03/16/1552701584725.html)
@@ -52,7 +53,6 @@
 * [uniq、sort命令理解](https://www.cjzshilong.cn/articles/2019/03/23/1553311254119.html)
 * [你好](https://www.cjzshilong.cn/articles/2019/03/05/1551764136796.html)
 * [纸牌屋之下木小朋友](https://www.cjzshilong.cn/articles/2019/03/06/1551875166137.html)
-* [配置docker静态ip地址](https://www.cjzshilong.cn/articles/2019/03/27/1553657246955.html)
 
 ### 热议
 
@@ -68,6 +68,7 @@
 * [全面理解Java内存模型(偷转)](https://www.cjzshilong.cn/articles/2019/03/23/1553319340134.html)
 * [JDK11-juc包系列之atomic的AtomicBoolean类(一)](https://www.cjzshilong.cn/articles/2019/03/23/1553320766611.html)
 * [docker容器命名和资源配额控制(2)](https://www.cjzshilong.cn/articles/2019/03/27/1553650586883.html)
+* [配置docker静态ip地址](https://www.cjzshilong.cn/articles/2019/03/27/1553657246955.html)
 * [docker安装mysql](https://www.cjzshilong.cn/articles/2019/03/27/1553678573009.html)
 * [docker安装nginx](https://www.cjzshilong.cn/articles/2019/03/28/1553760603642.html)
 * [压力之大令人唏嘘](https://www.cjzshilong.cn/articles/2019/04/01/1554111088841.html)
