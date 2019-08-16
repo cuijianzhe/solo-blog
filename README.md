@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [立帖为证](https://www.cjzshilong.cn/articles/2019/08/16/1565946389609.html)
 * [Request 方法](https://www.cjzshilong.cn/articles/2019/08/14/1565771931308.html)
 * [zabbix自动发现华为AC6605管理AP状态以及连接数](https://www.cjzshilong.cn/articles/2019/08/05/1564987766272.html)
 * [学生管理系统](https://www.cjzshilong.cn/articles/2019/08/02/1564728341878.html)
@@ -29,7 +30,6 @@
 * [我的主机./bashrc定制自己环境，and推荐zsh美化linux界面](https://www.cjzshilong.cn/articles/2019/05/08/1557298336838.html)
 * [vim常用快捷键以及方法](https://www.cjzshilong.cn/articles/2019/05/03/1556870431824.html)
 * [讲一个向外借钱的故事](https://www.cjzshilong.cn/articles/2019/04/30/1556596263829.html)
-* [2019年3月份述职报告](https://www.cjzshilong.cn/articles/2019/04/29/1556553586779.html)
 
 ### 热门
 
@@ -44,8 +44,8 @@
 * [多线程之同步屏障CyclicBarrier的使用](https://www.cjzshilong.cn/articles/2019/04/10/1554887221480.html)
 * [linux使用sendEmail发送邮件](https://www.cjzshilong.cn/articles/2019/03/16/1552701584725.html)
 * [并发工具类 ---Semaphore](https://www.cjzshilong.cn/articles/2019/04/15/1555318114318.html)
-* [阿里云机器和本地IDC建立ipsec VPN](https://www.cjzshilong.cn/articles/2019/03/16/1552720730829.html)
 * [使用python发送邮件告知SSL证书到期时间](https://www.cjzshilong.cn/articles/2019/03/16/1552707556605.html)
+* [阿里云机器和本地IDC建立ipsec VPN](https://www.cjzshilong.cn/articles/2019/03/16/1552720730829.html)
 * [调取高德api获取ip定位信息](https://www.cjzshilong.cn/articles/2019/03/08/1552013816021.html)
 * [搭建docker之路-初识（1）](https://www.cjzshilong.cn/articles/2019/03/26/1553571577540.html)
 * [通过查看nginx 日志进行分析](https://www.cjzshilong.cn/articles/2019/03/19/1552967425056.html)
