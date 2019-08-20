@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [【福利】python3爬取妹子图](https://www.cjzshilong.cn/articles/2019/08/20/1566301838555.html)
+* [python读取本地文件，提取指定格式的内容](https://www.cjzshilong.cn/articles/2019/08/20/1566269499265.html)
 * [网络流量重定向](https://www.cjzshilong.cn/articles/2019/08/17/1566025415398.html)
 * [立帖为证](https://www.cjzshilong.cn/articles/2019/08/16/1565946389609.html)
 * [Request 方法](https://www.cjzshilong.cn/articles/2019/08/14/1565771931308.html)
@@ -28,8 +30,6 @@
 * [学车之路](https://www.cjzshilong.cn/articles/2019/05/25/1558767210633.html)
 * [治疗snow的猫瘟之路](https://www.cjzshilong.cn/articles/2019/05/16/1557975252062.html)
 * [windows系统ping加上时间戳并且cmd隐藏运行实现方法](https://www.cjzshilong.cn/articles/2019/05/15/1557907158513.html)
-* [我的主机./bashrc定制自己环境，and推荐zsh美化linux界面](https://www.cjzshilong.cn/articles/2019/05/08/1557298336838.html)
-* [vim常用快捷键以及方法](https://www.cjzshilong.cn/articles/2019/05/03/1556870431824.html)
 
 ### 热门
 
@@ -40,23 +40,24 @@
 * [centos7 安装NVIDIA P4000](https://www.cjzshilong.cn/articles/2019/04/18/1555574565055.html)
 * [记一次grafana变量取值的过程](https://www.cjzshilong.cn/articles/2019/04/16/1555410740995.html)
 * [Mysql临时表示例](https://www.cjzshilong.cn/articles/2019/04/27/1556346607629.html)
+* [我的主机./bashrc定制自己环境，and推荐zsh美化linux界面](https://www.cjzshilong.cn/articles/2019/05/08/1557298336838.html)
 * [通过命令查看服务器硬件信息](https://www.cjzshilong.cn/articles/2019/04/23/1556013126298.html)
 * [多线程之同步屏障CyclicBarrier的使用](https://www.cjzshilong.cn/articles/2019/04/10/1554887221480.html)
 * [linux使用sendEmail发送邮件](https://www.cjzshilong.cn/articles/2019/03/16/1552701584725.html)
 * [并发工具类 ---Semaphore](https://www.cjzshilong.cn/articles/2019/04/15/1555318114318.html)
-* [阿里云机器和本地IDC建立ipsec VPN](https://www.cjzshilong.cn/articles/2019/03/16/1552720730829.html)
 * [使用python发送邮件告知SSL证书到期时间](https://www.cjzshilong.cn/articles/2019/03/16/1552707556605.html)
+* [阿里云机器和本地IDC建立ipsec VPN](https://www.cjzshilong.cn/articles/2019/03/16/1552720730829.html)
 * [调取高德api获取ip定位信息](https://www.cjzshilong.cn/articles/2019/03/08/1552013816021.html)
 * [搭建docker之路-初识（1）](https://www.cjzshilong.cn/articles/2019/03/26/1553571577540.html)
 * [通过查看nginx 日志进行分析](https://www.cjzshilong.cn/articles/2019/03/19/1552967425056.html)
 * [PGone、孙八一、小青龙剪辑作品展](https://www.cjzshilong.cn/articles/2019/03/05/1551798496474.html)
 * [uniq、sort命令理解](https://www.cjzshilong.cn/articles/2019/03/23/1553311254119.html)
 * [你好](https://www.cjzshilong.cn/articles/2019/03/05/1551764136796.html)
-* [纸牌屋之下木小朋友](https://www.cjzshilong.cn/articles/2019/03/06/1551875166137.html)
 
 ### 热议
 
 * [solo博客V3.2在Tomcat部署+更改H2数据库为MariaDB](https://www.cjzshilong.cn/articles/2019/03/05/1551783677422.html)
+* [纸牌屋之下木小朋友](https://www.cjzshilong.cn/articles/2019/03/06/1551875166137.html)
 * [谁希望宅呢，不过是同龄人都比自己优秀罢了。](https://www.cjzshilong.cn/articles/2019/03/09/1552066775891.html)
 * [基于centos7搭建wordpress博客系统](https://www.cjzshilong.cn/articles/2019/03/05/1551795070444.html)
 * [今天展示一个实用小脚本代码](https://www.cjzshilong.cn/articles/2019/03/08/1552010192689.html)
@@ -75,7 +76,6 @@
 * [查看linux配置文件中被注释以外的配置](https://www.cjzshilong.cn/articles/2019/04/06/1554546633835.html)
 * [设置APN让个人热点网速更快更稳定](https://www.cjzshilong.cn/articles/2019/04/10/1554867918639.html)
 * [java数值类型的拆装箱与升降级之间的关系](https://www.cjzshilong.cn/articles/2019/04/11/1554987815685.html)
-* [多线程之倒计时计数器 CountDownLatch](https://www.cjzshilong.cn/articles/2019/04/15/1555309259187.html)
 
 ---
 
