@@ -21,7 +21,7 @@
 * [python脚本操作数据库](https://www.cjzshilong.cn/articles/2019/07/26/1564125997971.html)
 * [语录](https://www.cjzshilong.cn/articles/2019/07/23/1563852507972.html)
 * [windows下实现黑客派自动签到](https://www.cjzshilong.cn/articles/2019/07/19/1563527162900.html)
-* [python爬取登录网站](https://www.cjzshilong.cn/articles/2019/07/18/1563449508471.html)
+* [python爬取网易云音乐、黑客派网站](https://www.cjzshilong.cn/articles/2019/07/18/1563449508471.html)
 * [思考如何才能创业成功](https://www.cjzshilong.cn/articles/2019/06/21/1561087069892.html)
 * [我在 GitHub 上的开源项目](https://www.cjzshilong.cn/my-github-repos)
 * [py项目中学到的知识梳理](https://www.cjzshilong.cn/articles/2019/06/14/1560505233857.html)
