@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [python获取数据实现echarts出图](https://www.cjzshilong.cn/articles/2019/09/06/1567757692612.html)
 * [python 实现 AI 换脸](https://www.cjzshilong.cn/articles/2019/08/31/1567234676723.html)
 * [【福利】python3爬取妹子图](https://www.cjzshilong.cn/articles/2019/08/20/1566301838555.html)
 * [python读取本地文件，提取指定格式的内容](https://www.cjzshilong.cn/articles/2019/08/20/1566269499265.html)
@@ -29,11 +30,11 @@
 * [python练习题](https://www.cjzshilong.cn/articles/2019/06/05/1559716535382.html)
 * [心中有大船](https://www.cjzshilong.cn/articles/2019/06/02/1559424549464.html)
 * [学车之路](https://www.cjzshilong.cn/articles/2019/05/25/1558767210633.html)
-* [治疗snow的猫瘟之路](https://www.cjzshilong.cn/articles/2019/05/16/1557975252062.html)
 
 ### 热门
 
 * [LINUX脚本使用实战，持续更新](https://www.cjzshilong.cn/articles/2019/03/16/1552705047941.html)
+* [治疗snow的猫瘟之路](https://www.cjzshilong.cn/articles/2019/05/16/1557975252062.html)
 * [zabbix监控端口自动发现功能](https://www.cjzshilong.cn/articles/2019/04/25/1556156913542.html)
 * [部署solo博客自动升级](https://www.cjzshilong.cn/articles/2019/04/10/1554909820806.html)
 * [windows系统ping加上时间戳并且cmd隐藏运行实现方法](https://www.cjzshilong.cn/articles/2019/05/15/1557907158513.html)
@@ -52,10 +53,10 @@
 * [通过查看nginx 日志进行分析](https://www.cjzshilong.cn/articles/2019/03/19/1552967425056.html)
 * [搭建docker之路-初识（1）](https://www.cjzshilong.cn/articles/2019/03/26/1553571577540.html)
 * [PGone、孙八一、小青龙剪辑作品展](https://www.cjzshilong.cn/articles/2019/03/05/1551798496474.html)
-* [solo博客V3.2在Tomcat部署+更改H2数据库为MariaDB](https://www.cjzshilong.cn/articles/2019/03/05/1551783677422.html)
 
 ### 热议
 
+* [solo博客V3.2在Tomcat部署+更改H2数据库为MariaDB](https://www.cjzshilong.cn/articles/2019/03/05/1551783677422.html)
 * [纸牌屋之下木小朋友](https://www.cjzshilong.cn/articles/2019/03/06/1551875166137.html)
 * [谁希望宅呢，不过是同龄人都比自己优秀罢了。](https://www.cjzshilong.cn/articles/2019/03/09/1552066775891.html)
 * [你好](https://www.cjzshilong.cn/articles/2019/03/05/1551764136796.html)
@@ -75,7 +76,6 @@
 * [docker安装nginx](https://www.cjzshilong.cn/articles/2019/03/28/1553760603642.html)
 * [压力之大令人唏嘘](https://www.cjzshilong.cn/articles/2019/04/01/1554111088841.html)
 * [查看linux配置文件中被注释以外的配置](https://www.cjzshilong.cn/articles/2019/04/06/1554546633835.html)
-* [设置APN让个人热点网速更快更稳定](https://www.cjzshilong.cn/articles/2019/04/10/1554867918639.html)
 
 ---
 
