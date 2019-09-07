@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [web状态码检测工具提醒](https://www.cjzshilong.cn/articles/2019/09/07/1567826678848.html)
 * [python获取数据实现echarts出图](https://www.cjzshilong.cn/articles/2019/09/06/1567757692612.html)
 * [python 实现 AI 换脸](https://www.cjzshilong.cn/articles/2019/08/31/1567234676723.html)
 * [【福利】python3爬取妹子图](https://www.cjzshilong.cn/articles/2019/08/20/1566301838555.html)
@@ -29,7 +30,6 @@
 * [py项目中学到的知识梳理](https://www.cjzshilong.cn/articles/2019/06/14/1560505233857.html)
 * [python练习题](https://www.cjzshilong.cn/articles/2019/06/05/1559716535382.html)
 * [心中有大船](https://www.cjzshilong.cn/articles/2019/06/02/1559424549464.html)
-* [学车之路](https://www.cjzshilong.cn/articles/2019/05/25/1558767210633.html)
 
 ### 热门
 
