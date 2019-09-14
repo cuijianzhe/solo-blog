@@ -36,13 +36,13 @@
 * [LINUX脚本使用实战，持续更新](https://www.cjzshilong.cn/articles/2019/03/16/1552705047941.html)
 * [治疗snow的猫瘟之路](https://www.cjzshilong.cn/articles/2019/05/16/1557975252062.html)
 * [zabbix监控端口自动发现功能](https://www.cjzshilong.cn/articles/2019/04/25/1556156913542.html)
-* [windows系统ping加上时间戳并且cmd隐藏运行实现方法](https://www.cjzshilong.cn/articles/2019/05/15/1557907158513.html)
 * [部署solo博客自动升级](https://www.cjzshilong.cn/articles/2019/04/10/1554909820806.html)
+* [windows系统ping加上时间戳并且cmd隐藏运行实现方法](https://www.cjzshilong.cn/articles/2019/05/15/1557907158513.html)
 * [编写一个自动安装zabbix-agentd客户端的脚本](https://www.cjzshilong.cn/articles/2019/04/07/1554637687016.html)
 * [记一次grafana变量取值的过程](https://www.cjzshilong.cn/articles/2019/04/16/1555410740995.html)
 * [centos7 安装NVIDIA P4000](https://www.cjzshilong.cn/articles/2019/04/18/1555574565055.html)
-* [我的主机./bashrc定制自己环境，and推荐zsh美化linux界面](https://www.cjzshilong.cn/articles/2019/05/08/1557298336838.html)
 * [Mysql临时表示例](https://www.cjzshilong.cn/articles/2019/04/27/1556346607629.html)
+* [我的主机./bashrc定制自己环境，and推荐zsh美化linux界面](https://www.cjzshilong.cn/articles/2019/05/08/1557298336838.html)
 * [通过命令查看服务器硬件信息](https://www.cjzshilong.cn/articles/2019/04/23/1556013126298.html)
 * [多线程之同步屏障CyclicBarrier的使用](https://www.cjzshilong.cn/articles/2019/04/10/1554887221480.html)
 * [使用python发送邮件告知SSL证书到期时间](https://www.cjzshilong.cn/articles/2019/03/16/1552707556605.html)
@@ -75,7 +75,7 @@
 * [docker安装mysql](https://www.cjzshilong.cn/articles/2019/03/27/1553678573009.html)
 * [docker安装nginx](https://www.cjzshilong.cn/articles/2019/03/28/1553760603642.html)
 * [压力之大令人唏嘘](https://www.cjzshilong.cn/articles/2019/04/01/1554111088841.html)
-* [查看linux配置文件中被注释以外的配置](https://www.cjzshilong.cn/articles/2019/04/06/1554546633835.html)
+* [查看linux配置文件的实用方法](https://www.cjzshilong.cn/articles/2019/04/06/1554546633835.html)
 
 ---
 
