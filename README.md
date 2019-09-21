@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [通过python获取钉钉后台人员](https://www.cjzshilong.cn/articles/2019/09/20/1568981823765.html)
 * [web状态码检测监控提醒](https://www.cjzshilong.cn/articles/2019/09/07/1567826678848.html)
 * [python获取数据实现echarts出图](https://www.cjzshilong.cn/articles/2019/09/06/1567757692612.html)
 * [python 实现 AI 换脸](https://www.cjzshilong.cn/articles/2019/08/31/1567234676723.html)
@@ -29,7 +30,6 @@
 * [我在 GitHub 上的开源项目](https://www.cjzshilong.cn/my-github-repos)
 * [py项目中学到的知识梳理](https://www.cjzshilong.cn/articles/2019/06/14/1560505233857.html)
 * [python练习题](https://www.cjzshilong.cn/articles/2019/06/05/1559716535382.html)
-* [心中有大船](https://www.cjzshilong.cn/articles/2019/06/02/1559424549464.html)
 
 ### 热门
 
