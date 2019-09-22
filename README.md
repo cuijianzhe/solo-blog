@@ -10,7 +10,7 @@
 
 ### 最新
 
-* [通过python获取钉钉后台人员](https://www.cjzshilong.cn/articles/2019/09/20/1568981823765.html)
+* [通过 python 获取钉钉后台人员](https://www.cjzshilong.cn/articles/2019/09/20/1568981823765.html)
 * [web状态码检测监控提醒](https://www.cjzshilong.cn/articles/2019/09/07/1567826678848.html)
 * [python获取数据实现echarts出图](https://www.cjzshilong.cn/articles/2019/09/06/1567757692612.html)
 * [python 实现 AI 换脸](https://www.cjzshilong.cn/articles/2019/08/31/1567234676723.html)
@@ -52,11 +52,11 @@
 * [linux使用sendEmail发送邮件](https://www.cjzshilong.cn/articles/2019/03/16/1552701584725.html)
 * [通过查看nginx 日志进行分析](https://www.cjzshilong.cn/articles/2019/03/19/1552967425056.html)
 * [搭建docker之路-初识（1）](https://www.cjzshilong.cn/articles/2019/03/26/1553571577540.html)
-* [PGone、孙八一、小青龙剪辑作品展](https://www.cjzshilong.cn/articles/2019/03/05/1551798496474.html)
+* [solo博客V3.2在Tomcat部署+更改H2数据库为MariaDB](https://www.cjzshilong.cn/articles/2019/03/05/1551783677422.html)
 
 ### 热议
 
-* [solo博客V3.2在Tomcat部署+更改H2数据库为MariaDB](https://www.cjzshilong.cn/articles/2019/03/05/1551783677422.html)
+* [PGone、孙八一、小青龙剪辑作品展](https://www.cjzshilong.cn/articles/2019/03/05/1551798496474.html)
 * [纸牌屋之下木小朋友](https://www.cjzshilong.cn/articles/2019/03/06/1551875166137.html)
 * [谁希望宅呢，不过是同龄人都比自己优秀罢了。](https://www.cjzshilong.cn/articles/2019/03/09/1552066775891.html)
 * [你好](https://www.cjzshilong.cn/articles/2019/03/05/1551764136796.html)
