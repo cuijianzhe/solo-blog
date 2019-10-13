@@ -10,6 +10,9 @@
 
 ### 最新
 
+* [openstack系列-nove节点部署](https://www.cjzshilong.cn/articles/2019/10/13/1570962040262.html)
+* [openstack系列- glance 服务部署](https://www.cjzshilong.cn/articles/2019/10/13/1570938302267.html)
+* [openstack系列- keystone部署文档](https://www.cjzshilong.cn/articles/2019/10/11/1570777511550.html)
 * [通过python读取excel表格内容url批量下载](https://www.cjzshilong.cn/articles/2019/10/08/1570505431741.html)
 * [通过 python 获取钉钉后台人员](https://www.cjzshilong.cn/articles/2019/09/20/1568981823765.html)
 * [web状态码检测监控提醒](https://www.cjzshilong.cn/articles/2019/09/07/1567826678848.html)
@@ -27,9 +30,6 @@
 * [语录](https://www.cjzshilong.cn/articles/2019/07/23/1563852507972.html)
 * [windows下实现黑客派自动签到](https://www.cjzshilong.cn/articles/2019/07/19/1563527162900.html)
 * [python爬取网易云音乐、黑客派网站](https://www.cjzshilong.cn/articles/2019/07/18/1563449508471.html)
-* [思考如何才能创业成功](https://www.cjzshilong.cn/articles/2019/06/21/1561087069892.html)
-* [我在 GitHub 上的开源项目](https://www.cjzshilong.cn/my-github-repos)
-* [py项目中学到的知识梳理](https://www.cjzshilong.cn/articles/2019/06/14/1560505233857.html)
 
 ### 热门
 
@@ -42,6 +42,8 @@
 * [编写一个自动安装zabbix-agentd客户端的脚本](https://www.cjzshilong.cn/articles/2019/04/07/1554637687016.html)
 * [centos7 安装NVIDIA P4000](https://www.cjzshilong.cn/articles/2019/04/18/1555574565055.html)
 * [我的主机./bashrc定制自己环境，and推荐zsh美化linux界面](https://www.cjzshilong.cn/articles/2019/05/08/1557298336838.html)
+* [我在 GitHub 上的开源项目](https://www.cjzshilong.cn/my-github-repos)
+* [py项目中学到的知识梳理](https://www.cjzshilong.cn/articles/2019/06/14/1560505233857.html)
 * [Mysql临时表示例](https://www.cjzshilong.cn/articles/2019/04/27/1556346607629.html)
 * [通过命令查看服务器硬件信息](https://www.cjzshilong.cn/articles/2019/04/23/1556013126298.html)
 * [多线程之同步屏障CyclicBarrier的使用](https://www.cjzshilong.cn/articles/2019/04/10/1554887221480.html)
@@ -51,11 +53,10 @@
 * [阿里云机器和本地IDC建立ipsec VPN](https://www.cjzshilong.cn/articles/2019/03/16/1552720730829.html)
 * [linux使用sendEmail发送邮件](https://www.cjzshilong.cn/articles/2019/03/16/1552701584725.html)
 * [solo博客V3.2在Tomcat部署+更改H2数据库为MariaDB](https://www.cjzshilong.cn/articles/2019/03/05/1551783677422.html)
-* [通过查看nginx 日志进行分析](https://www.cjzshilong.cn/articles/2019/03/19/1552967425056.html)
-* [搭建docker之路-初识（1）](https://www.cjzshilong.cn/articles/2019/03/26/1553571577540.html)
 
 ### 热议
 
+* [思考如何才能创业成功](https://www.cjzshilong.cn/articles/2019/06/21/1561087069892.html)
 * [python练习题](https://www.cjzshilong.cn/articles/2019/06/05/1559716535382.html)
 * [PGone、孙八一、小青龙剪辑作品展](https://www.cjzshilong.cn/articles/2019/03/05/1551798496474.html)
 * [纸牌屋之下木小朋友](https://www.cjzshilong.cn/articles/2019/03/06/1551875166137.html)
@@ -66,16 +67,15 @@
 * [阿里P8架构师讲述：3—5年程序员的发展和出路在哪里？](https://www.cjzshilong.cn/articles/2019/03/15/1552646700449.html)
 * [解决centos7系统搭建wordpress出现403问题](https://www.cjzshilong.cn/articles/2019/03/15/1552647096813.html)
 * [nginx反向代理tomcat项目之solo](https://www.cjzshilong.cn/articles/2019/03/15/1552648638089.html)
+* [通过查看nginx 日志进行分析](https://www.cjzshilong.cn/articles/2019/03/19/1552967425056.html)
 * [网络设备配置输出一口气](https://www.cjzshilong.cn/articles/2019/03/20/1553084486763.html)
 * [IDEA2018.3.3集成tomcat9](https://www.cjzshilong.cn/articles/2019/03/23/1553276263160.html)
 * [uniq、sort命令理解](https://www.cjzshilong.cn/articles/2019/03/23/1553311254119.html)
 * [全面理解Java内存模型(偷转)](https://www.cjzshilong.cn/articles/2019/03/23/1553319340134.html)
 * [JDK11-juc包系列之atomic的AtomicBoolean类(一)](https://www.cjzshilong.cn/articles/2019/03/23/1553320766611.html)
+* [搭建docker之路-初识（1）](https://www.cjzshilong.cn/articles/2019/03/26/1553571577540.html)
 * [docker容器命名和资源配额控制(2)](https://www.cjzshilong.cn/articles/2019/03/27/1553650586883.html)
 * [配置docker静态ip地址](https://www.cjzshilong.cn/articles/2019/03/27/1553657246955.html)
-* [docker安装mysql](https://www.cjzshilong.cn/articles/2019/03/27/1553678573009.html)
-* [docker安装nginx](https://www.cjzshilong.cn/articles/2019/03/28/1553760603642.html)
-* [压力之大令人唏嘘](https://www.cjzshilong.cn/articles/2019/04/01/1554111088841.html)
 
 ---
 
