@@ -10,7 +10,9 @@
 
 ### 最新
 
-* [openstack系列-nove节点部署](https://www.cjzshilong.cn/articles/2019/10/13/1570962040262.html)
+* [openstack系列-dashboard部署](https://www.cjzshilong.cn/articles/2019/10/15/1571128802984.html)
+* [openstack系列-neutron系列安装部署](https://www.cjzshilong.cn/articles/2019/10/15/1571104876779.html)
+* [openstack系列-nova节点部署](https://www.cjzshilong.cn/articles/2019/10/13/1570962040262.html)
 * [openstack系列- glance 服务部署](https://www.cjzshilong.cn/articles/2019/10/13/1570938302267.html)
 * [openstack系列- keystone部署文档](https://www.cjzshilong.cn/articles/2019/10/11/1570777511550.html)
 * [通过python读取excel表格内容url批量下载](https://www.cjzshilong.cn/articles/2019/10/08/1570505431741.html)
@@ -28,8 +30,6 @@
 * [java.lang.IllegalArgumentException: Argument for @NotNull parameter 'file' of com/intellij/openapi/module/ModuleUtilCore.findModuleForFile must not be null](https://www.cjzshilong.cn/articles/2019/07/26/1564126881261.html)
 * [python脚本操作数据库](https://www.cjzshilong.cn/articles/2019/07/26/1564125997971.html)
 * [语录](https://www.cjzshilong.cn/articles/2019/07/23/1563852507972.html)
-* [windows下实现黑客派自动签到](https://www.cjzshilong.cn/articles/2019/07/19/1563527162900.html)
-* [python爬取网易云音乐、黑客派网站](https://www.cjzshilong.cn/articles/2019/07/18/1563449508471.html)
 
 ### 热门
 
@@ -61,6 +61,7 @@
 * [PGone、孙八一、小青龙剪辑作品展](https://www.cjzshilong.cn/articles/2019/03/05/1551798496474.html)
 * [纸牌屋之下木小朋友](https://www.cjzshilong.cn/articles/2019/03/06/1551875166137.html)
 * [谁希望宅呢，不过是同龄人都比自己优秀罢了。](https://www.cjzshilong.cn/articles/2019/03/09/1552066775891.html)
+* [python爬取网易云音乐、黑客派网站](https://www.cjzshilong.cn/articles/2019/07/18/1563449508471.html)
 * [你好](https://www.cjzshilong.cn/articles/2019/03/05/1551764136796.html)
 * [基于centos7搭建wordpress博客系统](https://www.cjzshilong.cn/articles/2019/03/05/1551795070444.html)
 * [今天展示一个实用小脚本代码](https://www.cjzshilong.cn/articles/2019/03/08/1552010192689.html)
@@ -75,7 +76,6 @@
 * [JDK11-juc包系列之atomic的AtomicBoolean类(一)](https://www.cjzshilong.cn/articles/2019/03/23/1553320766611.html)
 * [搭建docker之路-初识（1）](https://www.cjzshilong.cn/articles/2019/03/26/1553571577540.html)
 * [docker容器命名和资源配额控制(2)](https://www.cjzshilong.cn/articles/2019/03/27/1553650586883.html)
-* [配置docker静态ip地址](https://www.cjzshilong.cn/articles/2019/03/27/1553657246955.html)
 
 ---
 
