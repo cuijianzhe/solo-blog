@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [修复nginx报错："upstream sent too big header while reading response header from upstream"](https://www.cjzshilong.cn/articles/2019/10/20/1571574453990.html)
 * [openstack系列-dashboard部署](https://www.cjzshilong.cn/articles/2019/10/15/1571128802984.html)
 * [openstack系列-neutron系列安装部署](https://www.cjzshilong.cn/articles/2019/10/15/1571104876779.html)
 * [openstack系列-nova节点部署](https://www.cjzshilong.cn/articles/2019/10/13/1570962040262.html)
@@ -29,7 +30,6 @@
 * [学生管理系统](https://www.cjzshilong.cn/articles/2019/08/02/1564728341878.html)
 * [java.lang.IllegalArgumentException: Argument for @NotNull parameter 'file' of com/intellij/openapi/module/ModuleUtilCore.findModuleForFile must not be null](https://www.cjzshilong.cn/articles/2019/07/26/1564126881261.html)
 * [python脚本操作数据库](https://www.cjzshilong.cn/articles/2019/07/26/1564125997971.html)
-* [语录](https://www.cjzshilong.cn/articles/2019/07/23/1563852507972.html)
 
 ### 热门
 
