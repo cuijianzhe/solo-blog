@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [ceph集群搭建](https://www.cjzshilong.cn/articles/2019/10/30/1572426357896.html)
 * [kolla部署openstack（stein）部署---allinone](https://www.cjzshilong.cn/articles/2019/10/27/1572172031071.html)
 * [修复nginx报错："upstream sent too big header while reading response header from upstream"](https://www.cjzshilong.cn/articles/2019/10/20/1571574453990.html)
 * [openstack系列-dashboard部署](https://www.cjzshilong.cn/articles/2019/10/15/1571128802984.html)
@@ -29,7 +30,6 @@
 * [Request 方法](https://www.cjzshilong.cn/articles/2019/08/14/1565771931308.html)
 * [zabbix自动发现华为AC6605管理AP状态以及连接数](https://www.cjzshilong.cn/articles/2019/08/05/1564987766272.html)
 * [学生管理系统](https://www.cjzshilong.cn/articles/2019/08/02/1564728341878.html)
-* [java.lang.IllegalArgumentException: Argument for @NotNull parameter 'file' of com/intellij/openapi/module/ModuleUtilCore.findModuleForFile must not be null](https://www.cjzshilong.cn/articles/2019/07/26/1564126881261.html)
 
 ### 热门
 
