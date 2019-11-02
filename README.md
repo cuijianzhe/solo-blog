@@ -10,6 +10,10 @@
 
 ### 最新
 
+* [【美食篇】自创的一道菜](https://www.cjzshilong.cn/articles/2019/11/02/1572697457928.html)
+* [【美食篇】回锅肉](https://www.cjzshilong.cn/articles/2019/11/02/1572677111441.html)
+* [ssh-key改变后出现的错误解决方法](https://www.cjzshilong.cn/articles/2019/11/02/1572658327824.html)
+* [kolla-ansible部署openstack多节点](https://www.cjzshilong.cn/articles/2019/11/01/1572607586305.html)
 * [ceph集群搭建](https://www.cjzshilong.cn/articles/2019/10/30/1572426357896.html)
 * [kolla部署openstack（stein）部署---allinone](https://www.cjzshilong.cn/articles/2019/10/27/1572172031071.html)
 * [修复nginx报错："upstream sent too big header while reading response header from upstream"](https://www.cjzshilong.cn/articles/2019/10/20/1571574453990.html)
@@ -26,10 +30,6 @@
 * [【福利】python3爬取妹子图](https://www.cjzshilong.cn/articles/2019/08/20/1566301838555.html)
 * [python读取本地文件，提取指定格式的内容](https://www.cjzshilong.cn/articles/2019/08/20/1566269499265.html)
 * [网络流量重定向](https://www.cjzshilong.cn/articles/2019/08/17/1566025415398.html)
-* [立帖为证](https://www.cjzshilong.cn/articles/2019/08/16/1565946389609.html)
-* [Request 方法](https://www.cjzshilong.cn/articles/2019/08/14/1565771931308.html)
-* [zabbix自动发现华为AC6605管理AP状态以及连接数](https://www.cjzshilong.cn/articles/2019/08/05/1564987766272.html)
-* [学生管理系统](https://www.cjzshilong.cn/articles/2019/08/02/1564728341878.html)
 
 ### 热门
 
@@ -48,20 +48,23 @@
 * [通过命令查看服务器硬件信息](https://www.cjzshilong.cn/articles/2019/04/23/1556013126298.html)
 * [多线程之同步屏障CyclicBarrier的使用](https://www.cjzshilong.cn/articles/2019/04/10/1554887221480.html)
 * [使用python发送邮件告知SSL证书到期时间](https://www.cjzshilong.cn/articles/2019/03/16/1552707556605.html)
+* [zabbix自动发现华为AC6605管理AP状态以及连接数](https://www.cjzshilong.cn/articles/2019/08/05/1564987766272.html)
 * [并发工具类 ---Semaphore](https://www.cjzshilong.cn/articles/2019/04/15/1555318114318.html)
 * [调取高德api获取ip定位信息](https://www.cjzshilong.cn/articles/2019/03/08/1552013816021.html)
 * [阿里云机器和本地IDC建立ipsec VPN](https://www.cjzshilong.cn/articles/2019/03/16/1552720730829.html)
 * [linux使用sendEmail发送邮件](https://www.cjzshilong.cn/articles/2019/03/16/1552701584725.html)
-* [solo博客V3.2在Tomcat部署+更改H2数据库为MariaDB](https://www.cjzshilong.cn/articles/2019/03/05/1551783677422.html)
 
 ### 热议
 
 * [思考如何才能创业成功](https://www.cjzshilong.cn/articles/2019/06/21/1561087069892.html)
+* [solo博客V3.2在Tomcat部署+更改H2数据库为MariaDB](https://www.cjzshilong.cn/articles/2019/03/05/1551783677422.html)
 * [python练习题](https://www.cjzshilong.cn/articles/2019/06/05/1559716535382.html)
+* [学生管理系统](https://www.cjzshilong.cn/articles/2019/08/02/1564728341878.html)
 * [PGone、孙八一、小青龙剪辑作品展](https://www.cjzshilong.cn/articles/2019/03/05/1551798496474.html)
 * [纸牌屋之下木小朋友](https://www.cjzshilong.cn/articles/2019/03/06/1551875166137.html)
 * [谁希望宅呢，不过是同龄人都比自己优秀罢了。](https://www.cjzshilong.cn/articles/2019/03/09/1552066775891.html)
 * [python爬取网易云音乐、黑客派网站](https://www.cjzshilong.cn/articles/2019/07/18/1563449508471.html)
+* [立帖为证](https://www.cjzshilong.cn/articles/2019/08/16/1565946389609.html)
 * [你好](https://www.cjzshilong.cn/articles/2019/03/05/1551764136796.html)
 * [基于centos7搭建wordpress博客系统](https://www.cjzshilong.cn/articles/2019/03/05/1551795070444.html)
 * [今天展示一个实用小脚本代码](https://www.cjzshilong.cn/articles/2019/03/08/1552010192689.html)
@@ -73,9 +76,6 @@
 * [IDEA2018.3.3集成tomcat9](https://www.cjzshilong.cn/articles/2019/03/23/1553276263160.html)
 * [uniq、sort命令理解](https://www.cjzshilong.cn/articles/2019/03/23/1553311254119.html)
 * [全面理解Java内存模型(偷转)](https://www.cjzshilong.cn/articles/2019/03/23/1553319340134.html)
-* [JDK11-juc包系列之atomic的AtomicBoolean类(一)](https://www.cjzshilong.cn/articles/2019/03/23/1553320766611.html)
-* [搭建docker之路-初识（1）](https://www.cjzshilong.cn/articles/2019/03/26/1553571577540.html)
-* [docker容器命名和资源配额控制(2)](https://www.cjzshilong.cn/articles/2019/03/27/1553650586883.html)
 
 ---
 
