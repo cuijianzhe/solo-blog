@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [学习日语课程](https://www.cjzshilong.cn/articles/2019/11/03/1572744813413.html)
 * [【美食篇】自创的一道菜](https://www.cjzshilong.cn/articles/2019/11/02/1572697457928.html)
 * [【美食篇】回锅肉](https://www.cjzshilong.cn/articles/2019/11/02/1572677111441.html)
 * [ssh-key改变后出现的错误解决方法](https://www.cjzshilong.cn/articles/2019/11/02/1572658327824.html)
@@ -29,13 +30,12 @@
 * [python 实现 AI 换脸](https://www.cjzshilong.cn/articles/2019/08/31/1567234676723.html)
 * [【福利】python3爬取妹子图](https://www.cjzshilong.cn/articles/2019/08/20/1566301838555.html)
 * [python读取本地文件，提取指定格式的内容](https://www.cjzshilong.cn/articles/2019/08/20/1566269499265.html)
-* [网络流量重定向](https://www.cjzshilong.cn/articles/2019/08/17/1566025415398.html)
 
 ### 热门
 
 * [LINUX脚本使用实战，持续更新](https://www.cjzshilong.cn/articles/2019/03/16/1552705047941.html)
-* [治疗snow的猫瘟之路](https://www.cjzshilong.cn/articles/2019/05/16/1557975252062.html)
 * [zabbix监控端口自动发现功能](https://www.cjzshilong.cn/articles/2019/04/25/1556156913542.html)
+* [治疗snow的猫瘟之路](https://www.cjzshilong.cn/articles/2019/05/16/1557975252062.html)
 * [windows系统ping加上时间戳并且cmd隐藏运行实现方法](https://www.cjzshilong.cn/articles/2019/05/15/1557907158513.html)
 * [部署 docker-solo 博客每日自动升级](https://www.cjzshilong.cn/articles/2019/04/10/1554909820806.html)
 * [记一次grafana变量取值的过程](https://www.cjzshilong.cn/articles/2019/04/16/1555410740995.html)
@@ -50,9 +50,9 @@
 * [使用python发送邮件告知SSL证书到期时间](https://www.cjzshilong.cn/articles/2019/03/16/1552707556605.html)
 * [zabbix自动发现华为AC6605管理AP状态以及连接数](https://www.cjzshilong.cn/articles/2019/08/05/1564987766272.html)
 * [并发工具类 ---Semaphore](https://www.cjzshilong.cn/articles/2019/04/15/1555318114318.html)
+* [网络流量重定向](https://www.cjzshilong.cn/articles/2019/08/17/1566025415398.html)
 * [调取高德api获取ip定位信息](https://www.cjzshilong.cn/articles/2019/03/08/1552013816021.html)
 * [阿里云机器和本地IDC建立ipsec VPN](https://www.cjzshilong.cn/articles/2019/03/16/1552720730829.html)
-* [linux使用sendEmail发送邮件](https://www.cjzshilong.cn/articles/2019/03/16/1552701584725.html)
 
 ### 热议
 
@@ -71,11 +71,11 @@
 * [阿里P8架构师讲述：3—5年程序员的发展和出路在哪里？](https://www.cjzshilong.cn/articles/2019/03/15/1552646700449.html)
 * [解决centos7系统搭建wordpress出现403问题](https://www.cjzshilong.cn/articles/2019/03/15/1552647096813.html)
 * [nginx反向代理tomcat项目之solo](https://www.cjzshilong.cn/articles/2019/03/15/1552648638089.html)
+* [linux使用sendEmail发送邮件](https://www.cjzshilong.cn/articles/2019/03/16/1552701584725.html)
 * [通过查看nginx 日志进行分析](https://www.cjzshilong.cn/articles/2019/03/19/1552967425056.html)
 * [网络设备配置输出一口气](https://www.cjzshilong.cn/articles/2019/03/20/1553084486763.html)
 * [IDEA2018.3.3集成tomcat9](https://www.cjzshilong.cn/articles/2019/03/23/1553276263160.html)
 * [uniq、sort命令理解](https://www.cjzshilong.cn/articles/2019/03/23/1553311254119.html)
-* [全面理解Java内存模型(偷转)](https://www.cjzshilong.cn/articles/2019/03/23/1553319340134.html)
 
 ---
 
