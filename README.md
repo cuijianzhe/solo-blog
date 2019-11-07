@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [openstack创建镜像，开启云主机](https://www.cjzshilong.cn/articles/2019/11/07/1573111362693.html)
 * [学习日语课程](https://www.cjzshilong.cn/articles/2019/11/03/1572744813413.html)
 * [【美食篇】自创的一道菜](https://www.cjzshilong.cn/articles/2019/11/02/1572697457928.html)
 * [【美食篇】回锅肉](https://www.cjzshilong.cn/articles/2019/11/02/1572677111441.html)
@@ -29,7 +30,6 @@
 * [python获取数据实现echarts出图](https://www.cjzshilong.cn/articles/2019/09/06/1567757692612.html)
 * [python 实现 AI 换脸](https://www.cjzshilong.cn/articles/2019/08/31/1567234676723.html)
 * [【福利】python3爬取妹子图](https://www.cjzshilong.cn/articles/2019/08/20/1566301838555.html)
-* [python读取本地文件，提取指定格式的内容](https://www.cjzshilong.cn/articles/2019/08/20/1566269499265.html)
 
 ### 热门
 
