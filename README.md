@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Scrapy学习](https://www.cjzshilong.cn/articles/2019/11/08/1573185139639.html)
 * [openstack创建镜像，开启云主机](https://www.cjzshilong.cn/articles/2019/11/07/1573111362693.html)
 * [学习日语课程](https://www.cjzshilong.cn/articles/2019/11/03/1572744813413.html)
 * [【美食篇】自创的一道菜](https://www.cjzshilong.cn/articles/2019/11/02/1572697457928.html)
@@ -29,7 +30,6 @@
 * [web状态码检测监控提醒](https://www.cjzshilong.cn/articles/2019/09/07/1567826678848.html)
 * [python获取数据实现echarts出图](https://www.cjzshilong.cn/articles/2019/09/06/1567757692612.html)
 * [python 实现 AI 换脸](https://www.cjzshilong.cn/articles/2019/08/31/1567234676723.html)
-* [【福利】python3爬取妹子图](https://www.cjzshilong.cn/articles/2019/08/20/1566301838555.html)
 
 ### 热门
 
@@ -39,6 +39,7 @@
 * [windows系统ping加上时间戳并且cmd隐藏运行实现方法](https://www.cjzshilong.cn/articles/2019/05/15/1557907158513.html)
 * [部署 docker-solo 博客每日自动升级](https://www.cjzshilong.cn/articles/2019/04/10/1554909820806.html)
 * [记一次grafana变量取值的过程](https://www.cjzshilong.cn/articles/2019/04/16/1555410740995.html)
+* [【福利】python3爬取妹子图](https://www.cjzshilong.cn/articles/2019/08/20/1566301838555.html)
 * [编写一个自动安装zabbix-agentd客户端的脚本](https://www.cjzshilong.cn/articles/2019/04/07/1554637687016.html)
 * [centos7 安装NVIDIA P4000](https://www.cjzshilong.cn/articles/2019/04/18/1555574565055.html)
 * [我的主机./bashrc定制自己环境，and推荐zsh美化linux界面](https://www.cjzshilong.cn/articles/2019/05/08/1557298336838.html)
@@ -52,12 +53,12 @@
 * [并发工具类 ---Semaphore](https://www.cjzshilong.cn/articles/2019/04/15/1555318114318.html)
 * [网络流量重定向](https://www.cjzshilong.cn/articles/2019/08/17/1566025415398.html)
 * [调取高德api获取ip定位信息](https://www.cjzshilong.cn/articles/2019/03/08/1552013816021.html)
-* [阿里云机器和本地IDC建立ipsec VPN](https://www.cjzshilong.cn/articles/2019/03/16/1552720730829.html)
 
 ### 热议
 
 * [思考如何才能创业成功](https://www.cjzshilong.cn/articles/2019/06/21/1561087069892.html)
 * [solo博客V3.2在Tomcat部署+更改H2数据库为MariaDB](https://www.cjzshilong.cn/articles/2019/03/05/1551783677422.html)
+* [阿里云机器和本地IDC建立ipsec VPN](https://www.cjzshilong.cn/articles/2019/03/16/1552720730829.html)
 * [python练习题](https://www.cjzshilong.cn/articles/2019/06/05/1559716535382.html)
 * [学生管理系统](https://www.cjzshilong.cn/articles/2019/08/02/1564728341878.html)
 * [PGone、孙八一、小青龙剪辑作品展](https://www.cjzshilong.cn/articles/2019/03/05/1551798496474.html)
@@ -75,7 +76,6 @@
 * [通过查看nginx 日志进行分析](https://www.cjzshilong.cn/articles/2019/03/19/1552967425056.html)
 * [网络设备配置输出一口气](https://www.cjzshilong.cn/articles/2019/03/20/1553084486763.html)
 * [IDEA2018.3.3集成tomcat9](https://www.cjzshilong.cn/articles/2019/03/23/1553276263160.html)
-* [uniq、sort命令理解](https://www.cjzshilong.cn/articles/2019/03/23/1553311254119.html)
 
 ---
 
