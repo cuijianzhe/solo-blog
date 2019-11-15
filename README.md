@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [openstack配额调整](https://www.cjzshilong.cn/articles/2019/11/15/1573804234510.html)
+* [ORA-12514: TNS:监听程序当前无法识别连接描述符中请求的服务](https://www.cjzshilong.cn/articles/2019/11/15/1573791873098.html)
 * [站点推荐【转】](https://www.cjzshilong.cn/articles/2019/11/13/1573637956893.html)
 * [Scrapy学习](https://www.cjzshilong.cn/articles/2019/11/08/1573185139639.html)
 * [openstack创建镜像，开启云主机](https://www.cjzshilong.cn/articles/2019/11/07/1573111362693.html)
@@ -28,8 +30,6 @@
 * [openstack系列- keystone部署文档](https://www.cjzshilong.cn/articles/2019/10/11/1570777511550.html)
 * [通过python读取excel表格内容url批量下载](https://www.cjzshilong.cn/articles/2019/10/08/1570505431741.html)
 * [通过 python 获取钉钉后台人员](https://www.cjzshilong.cn/articles/2019/09/20/1568981823765.html)
-* [web状态码检测监控提醒](https://www.cjzshilong.cn/articles/2019/09/07/1567826678848.html)
-* [python获取数据实现echarts出图](https://www.cjzshilong.cn/articles/2019/09/06/1567757692612.html)
 
 ### 热门
 
@@ -38,6 +38,7 @@
 * [zabbix监控端口自动发现功能](https://www.cjzshilong.cn/articles/2019/04/25/1556156913542.html)
 * [治疗snow的猫瘟之路](https://www.cjzshilong.cn/articles/2019/05/16/1557975252062.html)
 * [windows系统ping加上时间戳并且cmd隐藏运行实现方法](https://www.cjzshilong.cn/articles/2019/05/15/1557907158513.html)
+* [web状态码检测监控提醒](https://www.cjzshilong.cn/articles/2019/09/07/1567826678848.html)
 * [部署 docker-solo 博客每日自动升级](https://www.cjzshilong.cn/articles/2019/04/10/1554909820806.html)
 * [记一次grafana变量取值的过程](https://www.cjzshilong.cn/articles/2019/04/16/1555410740995.html)
 * [【福利】python3爬取妹子图](https://www.cjzshilong.cn/articles/2019/08/20/1566301838555.html)
@@ -52,7 +53,6 @@
 * [使用python发送邮件告知SSL证书到期时间](https://www.cjzshilong.cn/articles/2019/03/16/1552707556605.html)
 * [zabbix自动发现华为AC6605管理AP状态以及连接数](https://www.cjzshilong.cn/articles/2019/08/05/1564987766272.html)
 * [并发工具类 ---Semaphore](https://www.cjzshilong.cn/articles/2019/04/15/1555318114318.html)
-* [网络流量重定向](https://www.cjzshilong.cn/articles/2019/08/17/1566025415398.html)
 
 ### 热议
 
@@ -67,7 +67,6 @@
 * [谁希望宅呢，不过是同龄人都比自己优秀罢了。](https://www.cjzshilong.cn/articles/2019/03/09/1552066775891.html)
 * [python爬取网易云音乐、黑客派网站](https://www.cjzshilong.cn/articles/2019/07/18/1563449508471.html)
 * [立帖为证](https://www.cjzshilong.cn/articles/2019/08/16/1565946389609.html)
-* [你好](https://www.cjzshilong.cn/articles/2019/03/05/1551764136796.html)
 * [基于centos7搭建wordpress博客系统](https://www.cjzshilong.cn/articles/2019/03/05/1551795070444.html)
 * [今天展示一个实用小脚本代码](https://www.cjzshilong.cn/articles/2019/03/08/1552010192689.html)
 * [阿里P8架构师讲述：3—5年程序员的发展和出路在哪里？](https://www.cjzshilong.cn/articles/2019/03/15/1552646700449.html)
@@ -76,6 +75,7 @@
 * [linux使用sendEmail发送邮件](https://www.cjzshilong.cn/articles/2019/03/16/1552701584725.html)
 * [通过查看nginx 日志进行分析](https://www.cjzshilong.cn/articles/2019/03/19/1552967425056.html)
 * [网络设备配置输出一口气](https://www.cjzshilong.cn/articles/2019/03/20/1553084486763.html)
+* [IDEA2018.3.3集成tomcat9](https://www.cjzshilong.cn/articles/2019/03/23/1553276263160.html)
 
 ---
 
