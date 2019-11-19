@@ -61,7 +61,7 @@
 * [阿里云机器和本地IDC建立ipsec VPN](https://www.cjzshilong.cn/articles/2019/03/16/1552720730829.html)
 * [python练习题](https://www.cjzshilong.cn/articles/2019/06/05/1559716535382.html)
 * [学生管理系统](https://www.cjzshilong.cn/articles/2019/08/02/1564728341878.html)
-* [PGone、孙八一、小青龙、Jony J剪辑作品展](https://www.cjzshilong.cn/articles/2019/03/05/1551798496474.html)
+* [Pgone、孙八一、小青龙、Jony J 剪辑作品展](https://www.cjzshilong.cn/articles/2019/03/05/1551798496474.html)
 * [纸牌屋之下木小朋友](https://www.cjzshilong.cn/articles/2019/03/06/1551875166137.html)
 * [调取高德api获取ip定位信息](https://www.cjzshilong.cn/articles/2019/03/08/1552013816021.html)
 * [谁希望宅呢，不过是同龄人都比自己优秀罢了。](https://www.cjzshilong.cn/articles/2019/03/09/1552066775891.html)
