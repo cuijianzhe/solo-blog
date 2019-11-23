@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Python之生成器](https://www.cjzshilong.cn/articles/2019/11/23/1574490126718.html)
 * [Python之@函数装饰器](https://www.cjzshilong.cn/articles/2019/11/21/1574322166949.html)
 * [openstack配额调整](https://www.cjzshilong.cn/articles/2019/11/15/1573804234510.html)
 * [ORA-12514: TNS:监听程序当前无法识别连接描述符中请求的服务](https://www.cjzshilong.cn/articles/2019/11/15/1573791873098.html)
@@ -29,7 +30,6 @@
 * [openstack系列-nova节点部署](https://www.cjzshilong.cn/articles/2019/10/13/1570962040262.html)
 * [openstack系列- glance 服务部署](https://www.cjzshilong.cn/articles/2019/10/13/1570938302267.html)
 * [openstack系列- keystone部署文档](https://www.cjzshilong.cn/articles/2019/10/11/1570777511550.html)
-* [通过python读取excel表格内容url批量下载](https://www.cjzshilong.cn/articles/2019/10/08/1570505431741.html)
 
 ### 热门
 
@@ -51,8 +51,8 @@
 * [通过命令查看服务器硬件信息](https://www.cjzshilong.cn/articles/2019/04/23/1556013126298.html)
 * [Mysql临时表示例](https://www.cjzshilong.cn/articles/2019/04/27/1556346607629.html)
 * [多线程之同步屏障CyclicBarrier的使用](https://www.cjzshilong.cn/articles/2019/04/10/1554887221480.html)
-* [使用python发送邮件告知SSL证书到期时间](https://www.cjzshilong.cn/articles/2019/03/16/1552707556605.html)
 * [zabbix自动发现华为AC6605管理AP状态以及连接数](https://www.cjzshilong.cn/articles/2019/08/05/1564987766272.html)
+* [使用python发送邮件告知SSL证书到期时间](https://www.cjzshilong.cn/articles/2019/03/16/1552707556605.html)
 
 ### 热议
 
