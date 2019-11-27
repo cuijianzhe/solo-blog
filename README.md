@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [zabbix LLD 自动发现](https://www.cjzshilong.cn/articles/2019/11/26/1555140148890.html)
 * [Python之生成器](https://www.cjzshilong.cn/articles/2019/11/23/1574490126718.html)
 * [Python之@函数装饰器](https://www.cjzshilong.cn/articles/2019/11/21/1574322166949.html)
 * [openstack配额调整](https://www.cjzshilong.cn/articles/2019/11/15/1573804234510.html)
@@ -29,7 +30,6 @@
 * [openstack系列-neutron系列安装部署](https://www.cjzshilong.cn/articles/2019/10/15/1571104876779.html)
 * [openstack系列-nova节点部署](https://www.cjzshilong.cn/articles/2019/10/13/1570962040262.html)
 * [openstack系列- glance 服务部署](https://www.cjzshilong.cn/articles/2019/10/13/1570938302267.html)
-* [openstack系列- keystone部署文档](https://www.cjzshilong.cn/articles/2019/10/11/1570777511550.html)
 
 ### 热门
 
