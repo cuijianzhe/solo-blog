@@ -5,11 +5,13 @@
 <h4 align="center">记录精彩的坎坷人生，经营属于自己的世界！</h4>
 <p align="center"><a title="邯城往事" target="_blank" href="https://github.com/cuijianzhe/solo-blog"><img src="https://img.shields.io/github/last-commit/cuijianzhe/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/cuijianzhe/solo-blog"><img src="https://img.shields.io/github/repo-size/cuijianzhe/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.7-f1e05a.svg?style=flat-square&color=blueviolet"></a>
-<a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/cuijianzhe/solo-blog.svg"></a></p>
+<a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.7-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/cuijianzhe/solo-blog.svg"></a></p>
 
 ### 最新
 
+* [分享一个免费无限量存储](https://www.cjzshilong.cn/articles/2019/11/28/1573885158540.html)
+* [Oracle12不支持 wm_concat() 函数的解决办法](https://www.cjzshilong.cn/articles/2019/11/27/1574823350052.html)
 * [zabbix LLD 自动发现](https://www.cjzshilong.cn/articles/2019/11/26/1555140148890.html)
 * [Python之生成器](https://www.cjzshilong.cn/articles/2019/11/23/1574490126718.html)
 * [Python之@函数装饰器](https://www.cjzshilong.cn/articles/2019/11/21/1574322166949.html)
@@ -28,8 +30,6 @@
 * [修复nginx报错："upstream sent too big header while reading response header from upstream"](https://www.cjzshilong.cn/articles/2019/10/20/1571574453990.html)
 * [openstack系列-dashboard部署](https://www.cjzshilong.cn/articles/2019/10/15/1571128802984.html)
 * [openstack系列-neutron系列安装部署](https://www.cjzshilong.cn/articles/2019/10/15/1571104876779.html)
-* [openstack系列-nova节点部署](https://www.cjzshilong.cn/articles/2019/10/13/1570962040262.html)
-* [openstack系列- glance 服务部署](https://www.cjzshilong.cn/articles/2019/10/13/1570938302267.html)
 
 ### 热门
 
@@ -43,11 +43,11 @@
 * [【福利】python3爬取妹子图](https://www.cjzshilong.cn/articles/2019/08/20/1566301838555.html)
 * [部署 docker-solo 博客每日自动升级](https://www.cjzshilong.cn/articles/2019/04/10/1554909820806.html)
 * [记一次grafana变量取值的过程](https://www.cjzshilong.cn/articles/2019/04/16/1555410740995.html)
-* [编写一个自动安装zabbix-agentd客户端的脚本](https://www.cjzshilong.cn/articles/2019/04/07/1554637687016.html)
 * [centos7 安装NVIDIA P4000](https://www.cjzshilong.cn/articles/2019/04/18/1555574565055.html)
+* [编写一个自动安装zabbix-agentd客户端的脚本](https://www.cjzshilong.cn/articles/2019/04/07/1554637687016.html)
 * [我的主机./bashrc定制自己环境，and推荐zsh美化linux界面](https://www.cjzshilong.cn/articles/2019/05/08/1557298336838.html)
-* [我在 GitHub 上的开源项目](https://www.cjzshilong.cn/my-github-repos)
 * [py项目中学到的知识梳理](https://www.cjzshilong.cn/articles/2019/06/14/1560505233857.html)
+* [我在 GitHub 上的开源项目](https://www.cjzshilong.cn/my-github-repos)
 * [通过命令查看服务器硬件信息](https://www.cjzshilong.cn/articles/2019/04/23/1556013126298.html)
 * [Mysql临时表示例](https://www.cjzshilong.cn/articles/2019/04/27/1556346607629.html)
 * [多线程之同步屏障CyclicBarrier的使用](https://www.cjzshilong.cn/articles/2019/04/10/1554887221480.html)
@@ -79,4 +79,4 @@
 
 ---
 
-本仓库通过 [Solo](https://github.com/b3log/solo) 自动进行同步更新 ❤️ 
+本仓库通过 [Solo](https://github.com/88250/solo) 自动进行同步更新 ❤️ 
