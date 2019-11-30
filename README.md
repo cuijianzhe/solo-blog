@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [@Scheduled 增加 @Transactional 事务](https://www.cjzshilong.cn/articles/2019/11/30/1575099482173.html)
+* [org.apache.http工具类使用](https://www.cjzshilong.cn/articles/2019/11/30/1575084956460.html)
 * [分享一个免费无限量存储](https://www.cjzshilong.cn/articles/2019/11/28/1573885158540.html)
 * [Oracle12不支持 wm_concat() 函数的解决办法](https://www.cjzshilong.cn/articles/2019/11/27/1574823350052.html)
 * [zabbix LLD 自动发现](https://www.cjzshilong.cn/articles/2019/11/26/1555140148890.html)
@@ -28,8 +30,6 @@
 * [ceph集群搭建](https://www.cjzshilong.cn/articles/2019/10/30/1572426357896.html)
 * [kolla部署openstack（stein）部署---allinone](https://www.cjzshilong.cn/articles/2019/10/27/1572172031071.html)
 * [修复nginx报错："upstream sent too big header while reading response header from upstream"](https://www.cjzshilong.cn/articles/2019/10/20/1571574453990.html)
-* [openstack系列-dashboard部署](https://www.cjzshilong.cn/articles/2019/10/15/1571128802984.html)
-* [openstack系列-neutron系列安装部署](https://www.cjzshilong.cn/articles/2019/10/15/1571104876779.html)
 
 ### 热门
 
