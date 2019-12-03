@@ -36,8 +36,8 @@
 * [LINUX脚本使用实战，持续更新](https://www.cjzshilong.cn/articles/2019/03/16/1552705047941.html)
 * [python 实现 AI 换脸](https://www.cjzshilong.cn/articles/2019/08/31/1567234676723.html)
 * [zabbix监控端口自动发现功能](https://www.cjzshilong.cn/articles/2019/04/25/1556156913542.html)
-* [治疗snow的猫瘟之路](https://www.cjzshilong.cn/articles/2019/05/16/1557975252062.html)
 * [通过 python 获取钉钉后台人员](https://www.cjzshilong.cn/articles/2019/09/20/1568981823765.html)
+* [治疗snow的猫瘟之路](https://www.cjzshilong.cn/articles/2019/05/16/1557975252062.html)
 * [windows系统ping加上时间戳并且cmd隐藏运行实现方法](https://www.cjzshilong.cn/articles/2019/05/15/1557907158513.html)
 * [web状态码检测监控提醒](https://www.cjzshilong.cn/articles/2019/09/07/1567826678848.html)
 * [【福利】python3爬取妹子图](https://www.cjzshilong.cn/articles/2019/08/20/1566301838555.html)
@@ -50,8 +50,8 @@
 * [我在 GitHub 上的开源项目](https://www.cjzshilong.cn/my-github-repos)
 * [通过命令查看服务器硬件信息](https://www.cjzshilong.cn/articles/2019/04/23/1556013126298.html)
 * [Mysql临时表示例](https://www.cjzshilong.cn/articles/2019/04/27/1556346607629.html)
-* [多线程之同步屏障CyclicBarrier的使用](https://www.cjzshilong.cn/articles/2019/04/10/1554887221480.html)
 * [zabbix自动发现华为AC6605管理AP状态以及连接数](https://www.cjzshilong.cn/articles/2019/08/05/1564987766272.html)
+* [多线程之同步屏障CyclicBarrier的使用](https://www.cjzshilong.cn/articles/2019/04/10/1554887221480.html)
 * [使用python发送邮件告知SSL证书到期时间](https://www.cjzshilong.cn/articles/2019/03/16/1552707556605.html)
 
 ### 热议
