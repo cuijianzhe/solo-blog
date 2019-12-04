@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Navicat12连接oracle](https://www.cjzshilong.cn/articles/2019/12/04/1575431970752.html)
 * [拆分大List为若干个小List的工具类](https://www.cjzshilong.cn/articles/2019/12/02/1575250640223.html)
 * [@Scheduled 增加 @Transactional 事务](https://www.cjzshilong.cn/articles/2019/11/30/1575099482173.html)
 * [org.apache.http工具类使用](https://www.cjzshilong.cn/articles/2019/11/30/1575084956460.html)
@@ -29,7 +30,6 @@
 * [ssh-key改变后出现的错误解决方法](https://www.cjzshilong.cn/articles/2019/11/02/1572658327824.html)
 * [kolla-ansible部署openstack多节点](https://www.cjzshilong.cn/articles/2019/11/01/1572607586305.html)
 * [ceph集群搭建](https://www.cjzshilong.cn/articles/2019/10/30/1572426357896.html)
-* [kolla部署openstack（stein）部署---allinone](https://www.cjzshilong.cn/articles/2019/10/27/1572172031071.html)
 
 ### 热门
 
