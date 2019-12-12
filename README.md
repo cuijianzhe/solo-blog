@@ -18,7 +18,6 @@
 * [org.apache.http工具类使用](https://www.cjzshilong.cn/articles/2019/11/30/1575084956460.html)
 * [分享一个免费无限量存储](https://www.cjzshilong.cn/articles/2019/11/28/1573885158540.html)
 * [Oracle12不支持 wm_concat() 函数的解决办法](https://www.cjzshilong.cn/articles/2019/11/27/1574823350052.html)
-* [zabbix LLD 自动发现](https://www.cjzshilong.cn/articles/2019/11/26/1555140148890.html)
 * [Python之生成器](https://www.cjzshilong.cn/articles/2019/11/23/1574490126718.html)
 * [Python之@函数装饰器](https://www.cjzshilong.cn/articles/2019/11/21/1574322166949.html)
 * [openstack配额调整](https://www.cjzshilong.cn/articles/2019/11/15/1573804234510.html)
@@ -30,6 +29,7 @@
 * [【美食篇】自创的一道菜](https://www.cjzshilong.cn/articles/2019/11/02/1572697457928.html)
 * [【美食篇】回锅肉](https://www.cjzshilong.cn/articles/2019/11/02/1572677111441.html)
 * [ssh-key改变后出现的错误解决方法](https://www.cjzshilong.cn/articles/2019/11/02/1572658327824.html)
+* [kolla-ansible部署openstack多节点](https://www.cjzshilong.cn/articles/2019/11/01/1572607586305.html)
 
 ### 热门
 
@@ -47,8 +47,8 @@
 * [编写一个自动安装zabbix-agentd客户端的脚本](https://www.cjzshilong.cn/articles/2019/04/07/1554637687016.html)
 * [我的主机./bashrc定制自己环境，and推荐zsh美化linux界面](https://www.cjzshilong.cn/articles/2019/05/08/1557298336838.html)
 * [py项目中学到的知识梳理](https://www.cjzshilong.cn/articles/2019/06/14/1560505233857.html)
-* [我在 GitHub 上的开源项目](https://www.cjzshilong.cn/my-github-repos)
 * [通过命令查看服务器硬件信息](https://www.cjzshilong.cn/articles/2019/04/23/1556013126298.html)
+* [我在 GitHub 上的开源项目](https://www.cjzshilong.cn/my-github-repos)
 * [Mysql临时表示例](https://www.cjzshilong.cn/articles/2019/04/27/1556346607629.html)
 * [zabbix自动发现华为AC6605管理AP状态以及连接数](https://www.cjzshilong.cn/articles/2019/08/05/1564987766272.html)
 * [多线程之同步屏障CyclicBarrier的使用](https://www.cjzshilong.cn/articles/2019/04/10/1554887221480.html)
