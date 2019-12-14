@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [我和小仙女的各种约定](https://www.cjzshilong.cn/articles/2019/12/11/1576058698755.html)
 * [Quartz    applicationContext-quartz.xml 实例demo](https://www.cjzshilong.cn/articles/2019/12/06/1575626684620.html)
 * [搭建Kubernetes容器集群管理系统](https://www.cjzshilong.cn/articles/2019/12/05/1575540419679.html)
 * [Navicat12连接oracle](https://www.cjzshilong.cn/articles/2019/12/04/1575431970752.html)
@@ -29,7 +30,6 @@
 * [【美食篇】自创的一道菜](https://www.cjzshilong.cn/articles/2019/11/02/1572697457928.html)
 * [【美食篇】回锅肉](https://www.cjzshilong.cn/articles/2019/11/02/1572677111441.html)
 * [ssh-key改变后出现的错误解决方法](https://www.cjzshilong.cn/articles/2019/11/02/1572658327824.html)
-* [kolla-ansible部署openstack多节点](https://www.cjzshilong.cn/articles/2019/11/01/1572607586305.html)
 
 ### 热门
 
