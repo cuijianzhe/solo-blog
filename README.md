@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [zabbix发送报警信息带图片](https://www.cjzshilong.cn/articles/2020/07/09/1594290006252.html)
+* [哦](https://www.cjzshilong.cn/articles/2020/07/09/1594274450978.html)
 * [七牛云上传的mp4不能播放怎么办](https://www.cjzshilong.cn/articles/2020/07/04/1593823669011.html)
 * [Neo4j（一）介绍与下载与安装](https://www.cjzshilong.cn/articles/2020/07/04/1593821933784.html)
 * [华为AC6605对接OpenLDAP实现无线Portal认证](https://www.cjzshilong.cn/articles/2020/06/30/1593502682903.html)
@@ -28,8 +30,6 @@
 * [KUbernets实践之pod](https://www.cjzshilong.cn/articles/2020/04/16/1587015956420.html)
 * [Django应用容器化 ](https://www.cjzshilong.cn/articles/2020/04/12/1586677258146.html)
 * [kubeadm搭建kubernets-1.16.2](https://www.cjzshilong.cn/articles/2020/04/10/1586510174363.html)
-* [利用Python实现网易云音乐自动签到](https://www.cjzshilong.cn/articles/2020/03/27/1585293177882.html)
-* [利用爬虫爬取我的solo博客](https://www.cjzshilong.cn/articles/2020/03/25/1585126708916.html)
 
 ### 热门
 
