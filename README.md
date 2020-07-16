@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [阿里云同步资产信息到Jumpserver](https://www.cjzshilong.cn/articles/2020/07/16/1594900059981.html)
+* [Springboot项目启动时读取不到配置文件怎么办？](https://www.cjzshilong.cn/articles/2020/07/14/1594726114402.html)
 * [zabbix发送报警信息带图片](https://www.cjzshilong.cn/articles/2020/07/09/1594290006252.html)
 * [哦](https://www.cjzshilong.cn/articles/2020/07/09/1594274450978.html)
 * [七牛云上传的mp4不能播放怎么办](https://www.cjzshilong.cn/articles/2020/07/04/1593823669011.html)
@@ -28,8 +30,6 @@
 * [用Python实现widows下ping程序](https://www.cjzshilong.cn/articles/2020/04/18/1587188601330.html)
 * [配置Openldap主从](https://www.cjzshilong.cn/articles/2020/04/16/1587026602880.html)
 * [KUbernets实践之pod](https://www.cjzshilong.cn/articles/2020/04/16/1587015956420.html)
-* [Django应用容器化 ](https://www.cjzshilong.cn/articles/2020/04/12/1586677258146.html)
-* [kubeadm搭建kubernets-1.16.2](https://www.cjzshilong.cn/articles/2020/04/10/1586510174363.html)
 
 ### 热门
 
