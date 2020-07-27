@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [永远](https://www.cjzshilong.cn/articles/2020/07/27/1595829232315.html)
 * [slf4j-log4j12 与 logback-classic 冲突及解决方式](https://www.cjzshilong.cn/articles/2020/07/24/1595569833387.html)
 * [阿里云同步资产信息到Jumpserver](https://www.cjzshilong.cn/articles/2020/07/16/1594900059981.html)
 * [Springboot项目启动时读取不到配置文件怎么办？](https://www.cjzshilong.cn/articles/2020/07/14/1594726114402.html)
@@ -29,7 +30,6 @@
 * [Kubernetes服务访问](https://www.cjzshilong.cn/articles/2020/04/23/1587624487440.html)
 * [KUbernets实践之pod控制器](https://www.cjzshilong.cn/articles/2020/04/22/1587528230774.html)
 * [用Python实现widows下ping程序](https://www.cjzshilong.cn/articles/2020/04/18/1587188601330.html)
-* [配置Openldap主从](https://www.cjzshilong.cn/articles/2020/04/16/1587026602880.html)
 
 
 
