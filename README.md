@@ -10,6 +10,10 @@
 
 ### 最新
 
+* [java从hdfs下载文件/下载整个文件夹](https://www.cjzshilong.cn/articles/2020/07/31/1596184855555.html)
+* [java上传文件或文件夹到hdfs](https://www.cjzshilong.cn/articles/2020/07/30/1596106295313.html)
+* [Haproxy](https://www.cjzshilong.cn/articles/2020/07/29/1596024607735.html)
+* [使用mysql统计表中本周每一天的数量](https://www.cjzshilong.cn/articles/2020/07/29/1596021588286.html)
 * [Springboot整合mybatis-plus分页](https://www.cjzshilong.cn/articles/2020/07/28/1595908685910.html)
 * [spring-boot-starter-parent 与 spark 不兼容](https://www.cjzshilong.cn/articles/2020/07/27/1595853162970.html)
 * [永远](https://www.cjzshilong.cn/articles/2020/07/27/1595829232315.html)
@@ -26,10 +30,6 @@
 * [OpenVPN集成LDAP踩坑记](https://www.cjzshilong.cn/articles/2020/05/20/1589939911381.html)
 * [Python生成指定长度随机数密码文件](https://www.cjzshilong.cn/articles/2020/05/14/1589459519906.html)
 * [Nginx的Vhost配置](https://www.cjzshilong.cn/articles/2020/05/12/1589284354518.html)
-* [迁移wiki- Atlassian Confluence并升级](https://www.cjzshilong.cn/articles/2020/05/07/1588851186350.html)
-* [Pyhton爬虫爬取天气情况以及情话](https://www.cjzshilong.cn/articles/2020/04/30/1588249393623.html)
-* [Gitlab迁移](https://www.cjzshilong.cn/articles/2020/04/25/1587784213122.html)
-* [Kubernetes服务访问](https://www.cjzshilong.cn/articles/2020/04/23/1587624487440.html)
 
 
 
