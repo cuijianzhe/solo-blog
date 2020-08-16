@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [关于 Kubernetes 的这些原理，你一定要了解](https://www.cjzshilong.cn/articles/2020/08/15/1597459617030.html)
 * [腾讯云数据库？](https://www.cjzshilong.cn/articles/2020/08/12/1597200121515.html)
 * [requests.exceptions.SSLError: HTTPSConnectionPool](https://www.cjzshilong.cn/articles/2020/08/08/1596867654155.html)
 * [一个或多个筛选器启动失败。完整的详细信息将在相应的容器日志文件中找到](https://www.cjzshilong.cn/articles/2020/08/03/1596447580884.html)
@@ -29,7 +30,6 @@
 * [七牛云上传的mp4不能播放怎么办](https://www.cjzshilong.cn/articles/2020/07/04/1593823669011.html)
 * [Neo4j（一）介绍与下载与安装](https://www.cjzshilong.cn/articles/2020/07/04/1593821933784.html)
 * [华为AC6605对接OpenLDAP实现无线Portal认证](https://www.cjzshilong.cn/articles/2020/06/30/1593502682903.html)
-* [非常简单的java树结构实现，即拿即用](https://www.cjzshilong.cn/articles/2020/06/24/1592979467491.html)
 
 
 
