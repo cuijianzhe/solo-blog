@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Django 3.1 官网学习路线](https://www.cjzshilong.cn/articles/2020/08/17/1597665317545.html)
 * [关于 Kubernetes 的这些原理，你一定要了解](https://www.cjzshilong.cn/articles/2020/08/15/1597459617030.html)
 * [腾讯云数据库？](https://www.cjzshilong.cn/articles/2020/08/12/1597200121515.html)
 * [requests.exceptions.SSLError: HTTPSConnectionPool](https://www.cjzshilong.cn/articles/2020/08/08/1596867654155.html)
@@ -29,7 +30,6 @@
 * [哦](https://www.cjzshilong.cn/articles/2020/07/09/1594274450978.html)
 * [七牛云上传的mp4不能播放怎么办](https://www.cjzshilong.cn/articles/2020/07/04/1593823669011.html)
 * [Neo4j（一）介绍与下载与安装](https://www.cjzshilong.cn/articles/2020/07/04/1593821933784.html)
-* [华为AC6605对接OpenLDAP实现无线Portal认证](https://www.cjzshilong.cn/articles/2020/06/30/1593502682903.html)
 
 
 
