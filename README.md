@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [咪咪【合集】](https://solo.cjzshilong.cn/articles/2020/09/08/1599570901121.html)
 * [吐槽](https://solo.cjzshilong.cn/articles/2020/08/24/1598236925080.html)
 * [修改数据库名的一种方法](https://solo.cjzshilong.cn/articles/2020/08/23/1598183218602.html)
 * [Django 3.1 官网学习路线](https://solo.cjzshilong.cn/articles/2020/08/17/1597665317545.html)
@@ -29,7 +30,6 @@
 * [Pyhton爬虫爬取天气情况以及情话](https://solo.cjzshilong.cn/articles/2020/04/30/1588249393623.html)
 * [Gitlab迁移](https://solo.cjzshilong.cn/articles/2020/04/25/1587784213122.html)
 * [Kubernetes服务访问](https://solo.cjzshilong.cn/articles/2020/04/23/1587624487440.html)
-* [KUbernets实践之pod控制器](https://solo.cjzshilong.cn/articles/2020/04/22/1587528230774.html)
 
 
 
