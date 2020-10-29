@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [利用Python对windows桌面自动更换壁纸](https://solo.cjzshilong.cn/articles/2020/10/29/1603943265897.html)
 * [咪咪【合集】](https://solo.cjzshilong.cn/articles/2020/09/08/1599570901121.html)
 * [吐槽](https://solo.cjzshilong.cn/articles/2020/08/24/1598236925080.html)
 * [修改数据库名的一种方法](https://solo.cjzshilong.cn/articles/2020/08/23/1598183218602.html)
@@ -29,7 +30,6 @@
 * [迁移wiki- Atlassian Confluence并升级](https://solo.cjzshilong.cn/articles/2020/05/07/1588851186350.html)
 * [Pyhton爬虫爬取天气情况以及情话](https://solo.cjzshilong.cn/articles/2020/04/30/1588249393623.html)
 * [Gitlab迁移](https://solo.cjzshilong.cn/articles/2020/04/25/1587784213122.html)
-* [Kubernetes服务访问](https://solo.cjzshilong.cn/articles/2020/04/23/1587624487440.html)
 
 
 
