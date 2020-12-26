@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [Django 添加ldap认证细节注意](https://www.cjzshilong.cn/articles/2020/12/26/1608967635869.html)
+* [docker安装openldap](https://www.cjzshilong.cn/articles/2020/12/26/1608954669638.html)
 * [表格数据提取](https://www.cjzshilong.cn/articles/2020/12/14/1607958685328.html)
 * [l2tp over ipsec添加用户登陆日志](https://www.cjzshilong.cn/articles/2020/12/08/1607423165456.html)
 * [利用Python对windows桌面自动更换壁纸](https://www.cjzshilong.cn/articles/2020/10/29/1603943265897.html)
@@ -28,8 +30,6 @@
 * [表格数据抽取以及生成表格](https://www.cjzshilong.cn/articles/2020/06/02/1591098366985.html)
 * [OpenVPN集成LDAP踩坑记](https://www.cjzshilong.cn/articles/2020/05/20/1589939911381.html)
 * [Python生成指定长度随机数密码文件](https://www.cjzshilong.cn/articles/2020/05/14/1589459519906.html)
-* [Nginx的Vhost配置](https://www.cjzshilong.cn/articles/2020/05/12/1589284354518.html)
-* [迁移wiki- Atlassian Confluence并升级](https://www.cjzshilong.cn/articles/2020/05/07/1588851186350.html)
 
 
 
