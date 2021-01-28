@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [感想](https://www.cjzshilong.cn/articles/2021/01/28/1611838945032.html)
 * [Django 添加ldap认证细节注意](https://www.cjzshilong.cn/articles/2020/12/26/1608967635869.html)
 * [docker安装openldap](https://www.cjzshilong.cn/articles/2020/12/26/1608954669638.html)
 * [表格数据提取](https://www.cjzshilong.cn/articles/2020/12/14/1607958685328.html)
@@ -29,7 +30,6 @@
 * [华为AC6605对接OpenLDAP实现无线Portal认证](https://www.cjzshilong.cn/articles/2020/06/30/1593502682903.html)
 * [表格数据抽取以及生成表格](https://www.cjzshilong.cn/articles/2020/06/02/1591098366985.html)
 * [OpenVPN集成LDAP踩坑记](https://www.cjzshilong.cn/articles/2020/05/20/1589939911381.html)
-* [Python生成指定长度随机数密码文件](https://www.cjzshilong.cn/articles/2020/05/14/1589459519906.html)
 
 
 
