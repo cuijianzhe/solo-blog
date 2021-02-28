@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [yapi 集成LDAP配置文件](https://www.cjzshilong.cn/articles/2021/02/28/1614504777881.html)
 * [温夏](https://www.cjzshilong.cn/articles/2021/01/31/1612104113027.html)
 * [感想](https://www.cjzshilong.cn/articles/2021/01/28/1611838945032.html)
 * [Django 添加ldap认证细节注意](https://www.cjzshilong.cn/articles/2020/12/26/1608967635869.html)
@@ -29,7 +30,6 @@
 * [阿里云同步资产信息到Jumpserver](https://www.cjzshilong.cn/articles/2020/07/16/1594900059981.html)
 * [zabbix发送报警信息带图片](https://www.cjzshilong.cn/articles/2020/07/09/1594290006252.html)
 * [华为AC6605对接OpenLDAP实现无线Portal认证](https://www.cjzshilong.cn/articles/2020/06/30/1593502682903.html)
-* [表格数据抽取以及生成表格](https://www.cjzshilong.cn/articles/2020/06/02/1591098366985.html)
 
 
 
