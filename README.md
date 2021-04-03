@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [redis 命令行查询](https://www.cjzshilong.cn/articles/2021/04/03/1617425338282.html)
 * [vnote初始配置](https://www.cjzshilong.cn/articles/2021/03/11/1615446222120.html)
 * [yapi 集成LDAP配置文件](https://www.cjzshilong.cn/articles/2021/02/28/1614504777881.html)
 * [温夏](https://www.cjzshilong.cn/articles/2021/01/31/1612104113027.html)
@@ -29,7 +30,6 @@
 * [Haproxy](https://www.cjzshilong.cn/articles/2020/07/29/1596024607735.html)
 * [永远](https://www.cjzshilong.cn/articles/2020/07/27/1595829232315.html)
 * [阿里云同步资产信息到Jumpserver](https://www.cjzshilong.cn/articles/2020/07/16/1594900059981.html)
-* [zabbix发送报警信息带图片](https://www.cjzshilong.cn/articles/2020/07/09/1594290006252.html)
 
 
 
