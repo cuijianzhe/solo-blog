@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [剧本](https://www.cjzshilong.cn/articles/2021/07/01/1625127436405.html)
 * [centos7安装openldap](https://www.cjzshilong.cn/articles/2021/04/15/1618476318412.html)
 * [redis 命令行查询](https://www.cjzshilong.cn/articles/2021/04/03/1617425338282.html)
 * [vnote初始配置](https://www.cjzshilong.cn/articles/2021/03/11/1615446222120.html)
@@ -29,7 +30,6 @@
 * [腾讯云数据库？](https://www.cjzshilong.cn/articles/2020/08/12/1597200121515.html)
 * [requests.exceptions.SSLError: HTTPSConnectionPool](https://www.cjzshilong.cn/articles/2020/08/08/1596867654155.html)
 * [Haproxy](https://www.cjzshilong.cn/articles/2020/07/29/1596024607735.html)
-* [永远](https://www.cjzshilong.cn/articles/2020/07/27/1595829232315.html)
 
 
 
