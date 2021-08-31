@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [备份数据到同一实例下的数据库操作](https://www.cjzshilong.cn/articles/2021/08/31/1630404108592.html)
 * [真●养眼美女](https://www.cjzshilong.cn/articles/2021/08/14/1628936351415.html)
 * [亏麻了](https://www.cjzshilong.cn/articles/2021/08/14/1628936325944.html)
 * [剧本](https://www.cjzshilong.cn/articles/2021/07/01/1625127436405.html)
@@ -29,7 +30,6 @@
 * [修改数据库名的一种方法](https://www.cjzshilong.cn/articles/2020/08/23/1598183218602.html)
 * [Django 3.1 官网学习路线](https://www.cjzshilong.cn/articles/2020/08/17/1597665317545.html)
 * [关于 Kubernetes 的这些原理，你一定要了解](https://www.cjzshilong.cn/articles/2020/08/15/1597459617030.html)
-* [腾讯云数据库？](https://www.cjzshilong.cn/articles/2020/08/12/1597200121515.html)
 
 
 
