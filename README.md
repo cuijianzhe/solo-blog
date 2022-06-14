@@ -10,6 +10,11 @@
 
 ### 最新
 
+* [zabbix编译安装时的systemctl启动管理](https://www.cjzshilong.cn/articles/2022/06/13/1655119921370.html)
+* [centos查看编译参数](https://www.cjzshilong.cn/articles/2022/06/13/1655119874001.html)
+* [vmware添加硬盘识别问题](https://www.cjzshilong.cn/articles/2022/06/13/1655119806937.html)
+* [confluence自启动](https://www.cjzshilong.cn/articles/2022/06/13/1655119776419.html)
+* [修改Hostname值](https://www.cjzshilong.cn/articles/2022/06/13/1655119738860.html)
 * [关于思源笔记的同步](https://www.cjzshilong.cn/articles/2021/09/09/1631172581836.html)
 * [备份数据到同一实例下的其他数据库操作](https://www.cjzshilong.cn/articles/2021/08/31/1630404108592.html)
 * [剧本](https://www.cjzshilong.cn/articles/2021/07/01/1625127436405.html)
@@ -25,11 +30,6 @@
 * [l2tp over ipsec添加用户登陆日志](https://www.cjzshilong.cn/articles/2020/12/08/1607423165456.html)
 * [利用Python对windows桌面自动更换壁纸](https://www.cjzshilong.cn/articles/2020/10/29/1603943265897.html)
 * [咪咪【合集】](https://www.cjzshilong.cn/articles/2020/09/08/1599570901121.html)
-* [吐槽](https://www.cjzshilong.cn/articles/2020/08/24/1598236925080.html)
-* [修改数据库名的一种方法](https://www.cjzshilong.cn/articles/2020/08/23/1598183218602.html)
-* [Django 3.1 官网学习路线](https://www.cjzshilong.cn/articles/2020/08/17/1597665317545.html)
-* [关于 Kubernetes 的这些原理，你一定要了解](https://www.cjzshilong.cn/articles/2020/08/15/1597459617030.html)
-* [腾讯云数据库？](https://www.cjzshilong.cn/articles/2020/08/12/1597200121515.html)
 
 
 
