@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [linux服务器与H3C交换机聚合口对接](https://www.cjzshilong.cn/articles/2022/06/22/1655900110610.html)
 * [zabbix编译安装时的systemctl启动管理](https://www.cjzshilong.cn/articles/2022/06/13/1655119921370.html)
 * [centos查看编译参数](https://www.cjzshilong.cn/articles/2022/06/13/1655119874001.html)
 * [vmware添加硬盘识别问题](https://www.cjzshilong.cn/articles/2022/06/13/1655119806937.html)
@@ -29,7 +30,6 @@
 * [表格数据提取](https://www.cjzshilong.cn/articles/2020/12/14/1607958685328.html)
 * [l2tp over ipsec添加用户登陆日志](https://www.cjzshilong.cn/articles/2020/12/08/1607423165456.html)
 * [利用Python对windows桌面自动更换壁纸](https://www.cjzshilong.cn/articles/2020/10/29/1603943265897.html)
-* [咪咪【合集】](https://www.cjzshilong.cn/articles/2020/09/08/1599570901121.html)
 
 
 
