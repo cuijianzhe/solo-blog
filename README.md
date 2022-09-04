@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [丢了100块钱](https://www.cjzshilong.cn/articles/2022/09/04/1662258658413.html)
 * [思源笔记Docker伺服](https://www.cjzshilong.cn/articles/2022/07/10/1657460213914.html)
 * [Linux磁盘分区问题](https://www.cjzshilong.cn/articles/2022/07/06/1657106062614.html)
 * [删除linux目录下的乱码文件？](https://www.cjzshilong.cn/articles/2022/06/24/1656057189511.html)
@@ -29,7 +30,6 @@
 * [温夏](https://www.cjzshilong.cn/articles/2021/01/31/1612104113027.html)
 * [感想](https://www.cjzshilong.cn/articles/2021/01/28/1611838945032.html)
 * [Django 添加ldap认证细节注意](https://www.cjzshilong.cn/articles/2020/12/26/1608967635869.html)
-* [docker安装openldap](https://www.cjzshilong.cn/articles/2020/12/26/1608954669638.html)
 
 
 
